@@ -20,7 +20,7 @@ class URI
         double totalWeight = weight1 + weight2 + weight3 + weight4;
         double average = weightedSum / totalWeight;
 
-        if (average >= 7.00)
+        if (average >= 7.0)
         {
             Console.WriteLine($"Media: {average:F1}");
             Console.WriteLine("Aluno aprovado.");
