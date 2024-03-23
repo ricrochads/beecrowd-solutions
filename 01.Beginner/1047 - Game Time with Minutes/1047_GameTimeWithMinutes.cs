@@ -13,10 +13,10 @@ class URI
         finalHour = int.Parse(gameTime[2]);
         finalMinute = int.Parse(gameTime[3]);
 
-        int initialTimeMinutes = initialHour * 60 + initialMinute;
-        int finalTimeMinutes = finalHour * 60 + finalMinute;
+        int initialTimeInMinutes = initialHour * 60 + initialMinute;
+        int finalTimeInMinutes = finalHour * 60 + finalMinute;
 
-        int duration = finalTimeMinutes - initialTimeMinutes;
+        int duration = finalTimeInMinutes - initialTimeInMinutes;
         
         if (initialHour == finalHour && initialMinute == finalMinute)
         {
