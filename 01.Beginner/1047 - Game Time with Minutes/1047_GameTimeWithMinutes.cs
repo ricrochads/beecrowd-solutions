@@ -16,22 +16,22 @@ class URI
         int initialTimeInMinutes = initialHour * 60 + initialMinute;
         int finalTimeInMinutes = finalHour * 60 + finalMinute;
 
-        int duration = finalTimeInMinutes - initialTimeInMinutes;
+        int durationInMinutes = finalTimeInMinutes - initialTimeInMinutes;
         
         if (initialHour == finalHour && initialMinute == finalMinute)
         {
             Console.WriteLine($"O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)");
         }
-        else if (duration > 0)
+        else if (durationInMinutes > 0)
         {
-            durationHour = duration / 60;
-            durationMinute = duration % 60;
+            durationHour = durationInMinutes / 60;
+            durationMinute = durationInMinutes % 60;
             Console.WriteLine($"O JOGO DUROU {durationHour} HORA(S) E {durationMinute} MINUTO(S)");
         }
         else
         {
-            durationHour = 23 + (duration / 60);
-            durationMinute = 60 + (duration % 60);
+            durationHour = 23 + (durationInMinutes / 60);
+            durationMinute = 60 + (durationInMinutes % 60);
             Console.WriteLine($"O JOGO DUROU {durationHour} HORA(S) E {durationMinute} MINUTO(S)");
         }
     }
