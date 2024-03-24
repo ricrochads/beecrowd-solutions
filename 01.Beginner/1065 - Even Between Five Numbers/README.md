@@ -1,4 +1,4 @@
-# 1065 - Even Between five Numbers
+# 1065 - Even Between Five Numbers
 
 Make a program that reads five integer values. Count how many of these values ​​are even and  print this information like the following example.
 
