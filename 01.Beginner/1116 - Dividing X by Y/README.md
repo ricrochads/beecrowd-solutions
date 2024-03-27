@@ -8,7 +8,7 @@ The input contains an integer number **N**. This **N** is the quantity of pairs 
 **Output**<br>
 For each test case print the result of this division with one digit after the decimal point, or “divisao impossivel” if it isn't possible to perform the calculation.
 
-Obs.: Be carefull. The division between two integers in some languages generates another integer. Use cast:
+Obs.: Be careful. The division between two integers in some languages generates another integer. Use cast:
 
 | Input Sample	                 | Output Sample                         |
 |:-------------------------------|:--------------------------------------|
