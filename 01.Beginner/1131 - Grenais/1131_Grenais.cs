@@ -42,7 +42,7 @@ class URI
             {
                 case 1:
                     goalsScored = Console.ReadLine().Split(' ');
-                break;
+                    break;
                 case 2:
                     Console.WriteLine($"{grenais} grenais");
                     Console.WriteLine($"Inter:{interWins}");
@@ -55,7 +55,7 @@ class URI
                     else 
                         Console.WriteLine("Não houve vencedor");
                     continueLoop = false;
-                break;
+                    break;
             }
         }
     }
