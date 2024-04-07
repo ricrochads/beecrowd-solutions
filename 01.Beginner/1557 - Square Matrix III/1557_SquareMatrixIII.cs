@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
 
-internal class Program
+class URI 
 {
-    private static void Main(string[] args)
+    static void Main(string[] args) 
     {
         int n;
 
