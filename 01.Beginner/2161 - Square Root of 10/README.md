@@ -8,10 +8,10 @@ For example, by repeating 2 times the continued fraction to calculate the square
 
 Your task is to calculate the approximate value of square root of 10 given the number **N** of repetitions.
 
-**Input**
+**Input**<br>
 The input is a natural number **N** (0 ≤ **N** ≤ 100) that indicates the quantity of denominator repetitions in the continued fraction.
 
-**Output**
+**Output**<br>
 The output is the approximate value of the square root with 10 decimal places.
 
 | Input Samples | Output Samples |
