@@ -8,6 +8,6 @@ The input consists of an integer **I** (1 < **I** ≤ 10^4) that represents that
 **Output**<br>
 The output consists of the phrase "Feliz natal!" ("Merry Christmas" in Portuguese), and the last *a* of the sentence is repeated **I** times. A line break is necessary after printing the sentence.
 
-| Input Sample | Output Sample    |
-|:-------------|:-----------------|
-|5             | Feliz nataaaaal! |
+| Input Sample | Output Sample     |
+|:-------------|:------------------|
+| 5             | Feliz nataaaaal! |
