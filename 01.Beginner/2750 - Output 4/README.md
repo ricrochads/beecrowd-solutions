@@ -42,8 +42,6 @@ There is not.
 **Output**<br>
 The output will print as shown above.
 
-**Input Sample**	
-
 **Output Sample**
 ```
 ---------------------------------------
