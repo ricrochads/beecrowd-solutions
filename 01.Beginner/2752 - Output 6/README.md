@@ -19,8 +19,6 @@ There is not.
 **Output**<br>
 The result of your program should be written according to the output example.
 
-**Input Sample**	
-
 **Output Sample**
 ```
 <AMO FAZER EXERCICIO NO URI>
