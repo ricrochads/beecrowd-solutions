@@ -28,8 +28,6 @@ There is not.
 **Output**<br>
 The output will be printed as shown above.
 
-**Input Sample**
-
 **Output Sample**
 ```
 ---------------------------------------
