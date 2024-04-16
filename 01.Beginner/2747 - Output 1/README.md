@@ -25,8 +25,6 @@ There is no.
 **Output**<br>
 The output will be printed as shown above.
 
-**Input Sample**<br>
-
 **Output Sample**
 ```
 ---------------------------------------
