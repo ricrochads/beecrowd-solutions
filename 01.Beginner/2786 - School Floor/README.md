@@ -2,7 +2,7 @@
 
 The school intends to change the floor of a classroom and the principal took the opportunity to pass on a task to the students. The room has the shape of a rectangle of width L meters and length C meters, where L and C are integers. The principal needs to buy ceramic tiles to cover the entire floor of the room. It would be easy to calculate how many tiles would be needed if each tile were a 1 meter square. The problem is that the small flagstone that the director wants to buy is a square that is 1 meter diagonal, not sideways. In addition, she wants to fill the floor of the room with the diagonals of the tiles lined up at the sides of the room, as in the figure.
 
-![2786_SchoolFloor.webp]()
+![2786_SchoolFloor.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.Beginner/2786%20-%20School%20Floor/2786_SchoolFloor.webp)
 
 The store will supply tiles of type 1: whole; of type 2, which are of the half of type 1, cut along the diagonal; and type 3 slabs, which correspond to the half of type 2. See the three types of slabs in the figure.
 
