@@ -22,18 +22,11 @@ The result of your program should be written according to the output example.
 **Output Sample**
 ```
 <AMO FAZER EXERCICIO NO URI>
-
 <    AMO FAZER EXERCICIO NO URI>
-
 <AMO FAZER EXERCICIO >
-
 <AMO FAZER EXERCICIO NO URI>
-
 <AMO FAZER EXERCICIO NO URI    >
-
 <AMO FAZER EXERCICIO NO URI>
-
 <          AMO FAZER EXERCICIO >
-
 <AMO FAZER EXERCICIO           >
 ```
