@@ -14,5 +14,3 @@ class URI
         Console.WriteLine(new string('-', 39));
     }
 }
-
-        
