@@ -1,6 +1,6 @@
 # 2896 - Enjoy the Offer
 
-A supermarket is doing a sales promotion for soft drinks. If one day you buy soft drinks and bring the empty bottles the next day, they exchange each set of K empty bottles for a full one. A customer wants to make the most of this offer and therefore bought several bottles on the first day of the promotion. Now he wants to know how many bottles he will have at the end of the second day of the promotion if he use it to the fullest.
+A supermarket is doing a sales promotion for soft drinks. If one day you buy soft drinks and bring the empty bottles the next day, they exchange each set of **K** empty bottles for a full one. A customer wants to make the most of this offer and therefore bought several bottles on the first day of the promotion. Now he wants to know how many bottles he will have at the end of the second day of the promotion if he use it to the fullest.
 
 Make a program to calculate this.
 
