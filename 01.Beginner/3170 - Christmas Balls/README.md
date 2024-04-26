@@ -7,7 +7,7 @@ This year, Amélia decided to update her tree and will buy a new one. Also, some
 For that, she wants your help! Given the number of balls Amelia has and the number of branches her new tree will have, tell Amelia how many Christmas balls she needs to buy to decorate her new tree!
 
 **Input**<br>
-The input consists of two integer values, read on two lines, B (1 < **B** < 103) and **G** (100 < **G** < 1000) indicating, respectively, the number of balls that Amélia already has and the number of branches of her new Christmas tree.
+The input consists of two integer values, read on two lines, **B** (1 < **B** < 103) and **G** (100 < **G** < 1000) indicating, respectively, the number of balls that Amélia already has and the number of branches of her new Christmas tree.
 
 **Output**<br>
 Print the number of balls Amélia needs to buy to complete her tree, with the message *"Faltam B bolinha(s)"* (in English, Missing **B** ball(s)), where **B** is the number of balls that Amelia needs to buy. If Amelia has enough balls to spare, print the message *"Amelia tem todas bolinhas!"* (in English, "Amelia has all balls!")
