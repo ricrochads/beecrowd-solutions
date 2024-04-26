@@ -14,10 +14,10 @@ The first line contains two integers:
 1) **N** that represents the number of fruit names that will be checked/searched, limited by [1,100]; 
 2) **M** which represents the number of lines in the list of fruit names, limited by [15,500]; 
 
-In addition, each M line of the name list and each N line with the fruit name follow the limit: [4,100].
+In addition, each **M** line of the name list and each **N** line with the fruit name follow the limit: [4,100].
 
 **Output**<br>
-For each fruit searched, show the output: "Sheldon come a fruta X" or "Sheldon detesta a fruta X" (where X is the name of the fruit that was verified in the list, in lowercase).
+For each fruit searched, show the output: *"Sheldon come a fruta X"* or *"Sheldon detesta a fruta X"* (where **X** is the name of the fruit that was verified in the list, in lowercase).
 
 | Input Sample	                                                                       | Output Sample                                                                                                                                                                                                     |
 |:-------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
