@@ -8,8 +8,8 @@ class URI
 
         do
         {
-            a = Math.Abs(int.Parse(Console.ReadLine()));
-            b = Math.Abs(int.Parse(Console.ReadLine()));
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
         } while (a == 0 || a > 100000 || b > 100000);
 
         int remainder = a % b;
