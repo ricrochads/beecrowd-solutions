@@ -11,7 +11,7 @@ The input consists of several test cases. The first line of each test case conta
 
 Limits:
 
-1 ≤ **N**; **Q** ≤ 105
+1 ≤ **N**; **Q** ≤ 10^5
 
 **Output**<br>
 For each type 2 query print the GCD of all vector positions that are in the AB range
