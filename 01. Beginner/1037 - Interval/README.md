@@ -26,7 +26,7 @@ The output must be a message like following example.
 -25.02
 ```      
 
-Output Sample     
+**Output Samples **    
 ```
 Intervalo (25,50]
 ```
