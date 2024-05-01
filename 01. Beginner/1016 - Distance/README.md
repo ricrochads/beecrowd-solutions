@@ -12,8 +12,24 @@ The input file contains 1 integer value.
 **Output**<br>
 Print the necessary time followed by the message "minutos" that means minutes in Portuguese.
 
-| Input Sample  | Output Sample |
-|:--------------|:--------------|
-| 30            | 60 minutos    |
-| 110           | 220 minutos   |
-| 7             | 14 minutos    |
+**Input Samples**
+```
+30 
+```
+```         
+110
+```
+```       
+7
+```         
+
+**Output Samples**
+```
+60 minutos
+```
+```   
+220 minutos
+```
+```  
+14 minutos
+```
