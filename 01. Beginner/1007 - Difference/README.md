@@ -8,8 +8,33 @@ The input file contains 4 integer values.
 **Output**<br>
 Print **DIFERENCA** (DIFFERENCE in Portuguese) with all the capital letters, according to the following example, with a blank space before and after the equal signal.
 
-| Input Samples     | Output Samples    |
-|:------------------|:------------------|
-| 5<br>6<br>7<br>8  | DIFERENCA = -26   |
-| 0<br>0<br>7<br>8  | DIFERENCA = -56   |
-| 5<br>6<br>-7<br>8 | DIFERENCA = 86    |
+**Input Samples**    
+```
+5
+6
+7
+8
+```
+```  
+0
+0
+7
+8
+```
+```  
+5
+6
+-7
+8 
+```
+
+Output Samples 
+```
+DIFERENCA = -26
+```
+```
+DIFERENCA = -56
+```
+```
+DIFERENCA = 86
+```
