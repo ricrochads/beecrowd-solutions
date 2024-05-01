@@ -10,8 +10,30 @@ The input file contains 1 integer value.
 **Output**<br>
 Print the output, like the following example.
 
-| Input Sample  | Output Sample                             |
-|:--------------|:------------------------------------------|
-| 400           | 1 ano(s) <br> 1 mes(es) <br> 5 dia(s)     |
-| 800           | 2 ano(s) <br> 2 mes(es) <br> 10 dia(s)    |
-| 30            | 0 ano(s) <br> 1 mes(es) <br> 0 dia(s)     |
+**Input Samples**
+```
+400
+```
+```         
+800
+```
+```          
+30
+```          
+
+**Output Samples**                       
+```
+1 ano(s)
+1 mes(es)
+5 dia(s)
+```
+```
+2 ano(s)
+2 mes(es)
+10 dia(s)
+```
+```
+0 ano(s)
+1 mes(es)
+0 dia(s)
+```
