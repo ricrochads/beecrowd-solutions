@@ -24,7 +24,7 @@ Calculate and print the distance value using the provided formula, with 4 digits
 -12.2 7.0
 ```
 
-Output Samples
+**Output Samples**
 ```
 4.4721
 ```
