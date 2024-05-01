@@ -12,9 +12,30 @@ The input file contains a floating-point number.
 **Output**<br>
 The output must be a message like following example.
 
-| Input Sample  | Output Sample         |
-|:--------------|:----------------------|
-| 25.01         | Intervalo (25,50]     |
-| 25.00         | Intervalo [0,25]      |
-| 100.00        | Intervalo (75,100]    |
-| -25.02        | Fora de intervalo     |
+**Input Samples**
+```
+25.01   
+```
+```    
+25.00
+```
+```       
+100.00
+```
+```      
+-25.02
+```      
+
+Output Sample     
+```
+Intervalo (25,50]
+```
+``` 
+Intervalo [0,25]  
+```
+```
+Intervalo (75,100]
+```
+```
+Fora de intervalo 
+```
