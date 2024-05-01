@@ -8,7 +8,18 @@ Four integer numbers A, B, C and D.
 **Output**<br>
 Show the corresponding message after the validation of the values​​.
 
-| Input Sample  | Output Sample         |
-|:--------------|:----------------------|
-| 5 6 7 8       | Valores nao aceitos   |
-| 2 3 2 6       | Valores aceitos       |
+**Input Samples**
+```
+5 6 7 8
+```
+```   
+2 3 2 6
+```   
+
+**Output Samples**     
+```
+Valores nao aceitos
+```
+```
+Valores aceitos
+```
