@@ -8,8 +8,27 @@ The input file contains 2 integer numbers.
 **Output**<br>
 Print the message "PROD" and **PROD** according to the following example, with a blank space before and after the equal signal.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 3<br>9        | PROD = 27      |
-| -30<br>10     | PROD = -300    |
-| 0<br>9        | PROD = 0       |
+**Input Samples**
+```
+3
+9
+```
+```        
+-30
+10
+```
+```     
+0
+9
+```        
+
+Output Samples
+```
+PROD = 27
+```
+```
+PROD = -300
+```
+```
+PROD = 0
+```
