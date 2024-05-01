@@ -2,6 +2,10 @@
 
 ## 01. Beginner
 
+| #    | NAME               | LEVEL | LANGUAGE | PROBLEM | SOLUTION |
+|:-----|:-------------------|:------|:---------|:--------|:---------|
+| 1000 | Hello World!       | 5     | C#       | [<i class="fa-regular fa-folder"></i> Problem](https://github.com/ricrochads/beecrowd-solutions/tree/main/01.%20Beginner/1000%20-%20Hello%20World!) | [<i class="fa-regular fa-file"></i> Solution](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/1000%20-%20Hello%20World!/1000_HelloWorld.cs) |
+
 ## 02. Ad-Hoc
 
 ## 03. Strings
