@@ -8,6 +8,7 @@ This problem has no input.
 **Output**<br>
 You must print the message **Hello World!** and then the endline as shown below.
 
-| Input Sample  | Output Sample |
-|:-------------:|:-------------:|
-|               | Hello World!  |
+**Output Sample**
+```
+Hello World!
+```
