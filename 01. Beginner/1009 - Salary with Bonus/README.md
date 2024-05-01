@@ -11,8 +11,30 @@ The input file contains a text (employee's first name), and two double precision
 **Output**<br>
 Print the seller's total salary, according to the given example.
 
-| Input Samples                          | Output Samples     |
-|:---------------------------------------|:-------------------|
-| JOAO      <br> 500.00  <br> 1230.30    | TOTAL = R$ 684.54  |
-| PEDRO     <br> 700.00  <br> 0.00       | TOTAL = R$ 700.00  |
-| MANGOJATA <br> 1700.00 <br> 1230.50    | TOTAL = R$ 1884.58 |
+**Input Samples**                     
+```
+JOAO
+500.00
+1230.30
+```
+```
+PEDRO
+700.00
+0.00
+```
+```   
+MANGOJATA
+1700.00
+1230.50
+```
+
+**Output Samples**   
+```
+TOTAL = R$ 684.54 
+```
+```
+TOTAL = R$ 700.00 
+```
+```
+TOTAL = R$ 1884.58
+```
