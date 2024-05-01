@@ -8,8 +8,24 @@ The input file contains an integer **N**.
 **Output**<br>
 Print the read time in the input file (seconds) converted in hours:minutes:seconds like the following example.
 
-| Input Sample  | Output Sample |
-|:--------------|:--------------|
-| 556           | 0:9:16        |
-| 1             | 0:0:1         |
-| 140153        | 38:55:53      |
+**Input Samples**
+```
+556
+```
+```      
+1
+```
+```
+140153
+```
+
+**Output Samples**
+```
+0:9:16
+```
+```       
+0:0:1
+```
+```        
+38:55:53
+```     
