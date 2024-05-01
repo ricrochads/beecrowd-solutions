@@ -8,8 +8,24 @@ The input file contains two integers. The first one is the spent time in the tri
 **Output**<br>
 Print how many liters would be needed to do this trip, with three digits after the decimal point.
 
-| Input Sample  | Output Sample |
-|:--------------|:--------------|
-| 10 <br> 85    | 70.833        |
-| 2  <br> 92    | 15.333        |
-| 22 <br> 67    | 122.833       |
+**Input Samples**
+```
+10 <br> 85
+```
+```
+2  <br> 92
+```
+```  
+22 <br> 67  
+```
+
+**Output Samples**
+```
+70.833
+```
+```
+15.333
+```
+``` 
+122.833
+```
