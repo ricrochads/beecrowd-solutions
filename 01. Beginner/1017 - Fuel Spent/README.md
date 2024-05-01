@@ -10,13 +10,16 @@ Print how many liters would be needed to do this trip, with three digits after t
 
 **Input Samples**
 ```
-10 <br> 85
+10
+85
 ```
 ```
-2  <br> 92
+2
+92
 ```
 ```  
-22 <br> 67  
+22
+67  
 ```
 
 **Output Samples**
