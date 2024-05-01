@@ -8,8 +8,30 @@ The input file contains 3 values of floating points (double) with one digit afte
 **Output**<br>
 Print the message "MEDIA"(average in Portuguese) and the student's average according to the following example, with a blank space before and after the equal signal.
 
-| Input Samples         | Output Samples |
-|:----------------------|:---------------|
-| 5.0<br>6.0<br>7.0     | MEDIA = 6.3    |
-| 5.0<br>10.0<br>10.0   | MEDIA = 9.0    |
-| 10.0<br>10.0<br>5.0   | MEDIA = 7.5    |
+**Input Samples**
+```
+5.0
+6.0
+7.0 
+```
+``` 
+5.0
+10.0
+10.0
+```
+```
+10.0
+10.0
+5.0
+```
+
+**Output Samples**
+```
+MEDIA = 6.3
+```
+```
+MEDIA = 9.0
+```
+```
+MEDIA = 7.5
+```
