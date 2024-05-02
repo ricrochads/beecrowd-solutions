@@ -8,7 +8,30 @@ The input contains three integer numbers.
 **Output**<br>
 Present the output as requested above.
 
-| Input Sample  | Output Sample                                     |
-|:--------------|:--------------------------------------------------|
-| 7 21 -14      | -14 <br> 7 <br> 21 <br><br> 7   <br> 21 <br> -14  |
-| -14 21 7      | -14 <br> 7 <br> 21 <br><br> -14 <br> 21 <br> 7    |
+**Input Samples**
+```
+7 21 -14 
+```
+```    
+-14 21 7
+```    
+
+**Output Samples**
+```
+-14 
+7 
+21
+
+7
+21
+-14
+```
+```
+-14
+7
+21
+
+-14
+21
+7
+```
