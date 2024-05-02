@@ -10,8 +10,31 @@ The input contains four floating point numbers that represent the students' grad
 **Output**<br>
 Print all the answers with one digit after the decimal point.
 
-| Input Sample              | Output Sample                                                                                         |
-|:--------------------------|:------------------------------------------------------------------------------------------------------|
-| 2.0 4.0 7.5 8.0 <br> 6.4  | Media: 5.4 <br> Aluno em exame. <br> Nota do exame: 6.4 <br> Aluno aprovado. <br> Media final: 5.9    |
-| 2.0 6.5 4.0 9.0           | Media: 4.8 <br> Aluno reprovado.                                                                      |
-| 9.0 4.0 8.5 9.0           | Media: 7.3 <br> Aluno aprovado.                                                                       |
+**Input Samples**              
+```
+2.0 4.0 7.5 8.0
+6.4  
+```
+```
+2.0 6.5 4.0 9.0
+```
+```      
+9.0 4.0 8.5 9.0 
+```        
+
+**Output Samples**
+```
+Media: 5.4
+Aluno em exame.
+Nota do exame: 6.4 
+Aluno aprovado.
+Media final: 5.9
+```
+```
+Media: 4.8 
+Aluno reprovado.
+```
+```                                                                
+Media: 7.3
+Aluno aprovado.
+```                                                                 
