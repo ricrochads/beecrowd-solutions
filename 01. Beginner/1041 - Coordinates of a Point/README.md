@@ -26,8 +26,24 @@ The input contains the coordinates of a point.
 **Output**<br>
 The output should display the quadrant in which the point is.
 
-| Input Sample  | Output Sample |
-|:--------------|:--------------|
-| 4.5 -2.2      | Q4            |
-| 0.1 0.1       | Q1            |
-| 0.0 0.0       | Origem        |
+**Input Samples**
+```
+4.5 -2.2
+```
+```   
+0.1 0.1
+```
+```      
+0.0 0.0
+```
+
+**Output Samples**
+```
+Q4
+```
+```
+Q1
+```
+```
+Origem
+```
