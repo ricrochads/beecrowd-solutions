@@ -16,8 +16,24 @@ The input file contains two integer numbers **X** and **Y**. **X** is the produc
 **Output**<br>
 The output must be a message "Total: R$ " followed by the total value to be paid, with 2 digits after the decimal point.
 
-| Input Sample  | Output Sample     |
-|:--------------|:------------------|
-| 3 2           | Total: R$ 10.00   |
-| 4 3           | Total: R$ 6.00    |
-| 2 3           | Total: R$ 13.50   |
+**Input Samples**
+```
+3 2
+```
+```         
+4 3
+```
+```          
+2 3
+```          
+
+**Output Samples**
+```
+Total: R$ 10.00
+```
+```
+Total: R$ 6.00
+```
+```
+Total: R$ 13.50
+```
