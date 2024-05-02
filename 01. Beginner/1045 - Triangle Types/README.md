@@ -15,10 +15,39 @@ The input contains three double numbers, A (0 < A) , B (0 < B) and C (0 < C).
 **Output**<br>
 Print all the classifications of the triangle presented in the input.
 
-| Input Samples     | Output Samples                                    |
-|:------------------|:--------------------------------------------------|
-| 7.0 5.0 7.0       | TRIANGULO ACUTANGULO  <br> TRIANGULO ISOSCELES    |
-| 6.0 6.0 10.0      | TRIANGULO OBTUSANGULO <br> TRIANGULO ISOSCELES    |
-| 6.0 6.0 6.0       | TRIANGULO ACUTANGULO  <br> TRIANGULO EQUILATERO   |
-| 5.0 7.0 2.0       | NAO FORMA TRIANGULO                               |
-| 6.0 8.0 10.0      | TRIANGULO RETANGULO                               |
+**Input Samples**
+```
+7.0 5.0 7.0
+```
+```   
+6.0 6.0 10.0
+```
+```  
+6.0 6.0 6.0 
+```
+```  
+5.0 7.0 2.0
+```
+```   
+6.0 8.0 10.0  
+```
+
+**Output Samples**
+```
+TRIANGULO ACUTANGULO
+TRIANGULO ISOSCELES
+```
+``` 
+TRIANGULO OBTUSANGULO
+TRIANGULO ISOSCELES 
+```
+```
+TRIANGULO ACUTANGULO
+TRIANGULO EQUILATERO
+```
+```
+NAO FORMA TRIANGULO 
+```
+```
+TRIANGULO RETANGULO
+```
