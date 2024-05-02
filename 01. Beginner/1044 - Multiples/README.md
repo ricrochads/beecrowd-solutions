@@ -8,7 +8,18 @@ The input has two integer numbers.
 **Output**<br>
 Print the relative message to the input as stated above.
 
-| Input Sample  | Output Sample     |
-|:--------------|:------------------|
-| 6 24          | Sao Multiplos     |
-| 6 25          | Nao sao Multiplos |
+**Input Samples**
+```
+6 24
+```
+```     
+6 25
+```
+
+**Output Samples**  
+```
+Sao Multiplos
+```
+```  
+Nao sao Multiplos
+```
