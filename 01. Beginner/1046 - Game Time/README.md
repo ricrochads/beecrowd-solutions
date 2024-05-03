@@ -8,8 +8,24 @@ Two integer numbers representing the start and end time of a game.
 **Output**<br>
 Print the duration of the game as in the sample output.
 
-| Input Sample  | Output Sample             |
-|:--------------|:--------------------------|
-| 16 2          | O JOGO DUROU 10 HORA(S)   |
-| 0 0           | O JOGO DUROU 24 HORA(S)   |
-| 2 16          | O JOGO DUROU 14 HORA(S)   |
+**Input Samples**
+```
+16 2
+```
+```        
+0 0
+```
+```          
+2 16
+```
+
+**Output Samples**
+```
+O JOGO DUROU 10 HORA(S)
+```
+```
+O JOGO DUROU 24 HORA(S)
+```
+```
+O JOGO DUROU 14 HORA(S)
+```
