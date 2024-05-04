@@ -10,8 +10,24 @@ Four integer numbers representing the start and end time of the game.
 **Output**<br>
 Print the duration of the game in hours and minutes, in this format: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” . Which means: the game lasted XXX hour(s) and YYY minutes.
 
-| Input Sample  | Output Sample                         |
-|:--------------|:--------------------------------------|
-| 7 8 9 10      | O JOGO DUROU 2 HORA(S) E 2 MINUTO(S)  |
-| 7 7 7 7       | O JOGO DUROU 24 HORA(S) E 0 MINUTO(S) |
-| 7 10 8 9      | O JOGO DUROU 0 HORA(S) E 59 MINUTO(S) |
+**Input Samples**
+```
+7 8 9 10
+```
+```
+7 7 7 7
+```
+```
+7 10 8 9
+```
+
+**Output Samples**
+```
+O JOGO DUROU 2 HORA(S) E 2 MINUTO(S)
+```
+```
+O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)
+```
+```
+O JOGO DUROU 0 HORA(S) E 59 MINUTO(S)
+```
