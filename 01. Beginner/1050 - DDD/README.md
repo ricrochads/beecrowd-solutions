@@ -23,6 +23,12 @@ The input consists in a unique integer number.
 **Output**<br>
 Print the city name corresponding to the input DDD. Print *DDD nao cadastrado* if doesn't exist corresponding DDD to the typed number.
 
-| Input Sample  | Output Sample |
-|:--------------|:--------------|
-| 11            | Sao Paulo     |
+**Input Sample**
+```
+11
+```
+
+**Output Sample**
+```
+Sao Paulo
+```
