@@ -10,7 +10,7 @@ The input contains 3 words, one by line, that will be used to identify the anima
 **Output**<br>
 Print the animal name according to the given input.
 
-**Input Samples **
+**Input Samples**
 ```
 vertebrado    
 mamifero   
