@@ -19,8 +19,23 @@ The input contains only a float-point number, with 2 digits after the decimal po
 **Output**<br>
 Print the message "R$" followed by a blank space and the total tax to be payed, with two digits after the decimal point. If the value is up to 2000, print the message "Isento".
 
-| Input Samples | Outputs Samples   |
-|:--------------|:------------------|
-| 3002.00       | R$ 80.36          |
-| 1701.12       | Isento            |
-| 4520.00       | R$ 355.60         |
+**Input Samples**
+```
+3002.00
+```
+```
+1701.12
+```
+```
+4520.00
+```
+**Output Samples**
+```
+R$ 80.36 
+```
+```
+Isento   
+```
+```
+R$ 355.60
+```
