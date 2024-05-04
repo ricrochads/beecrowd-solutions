@@ -10,8 +10,30 @@ The input contains 3 words, one by line, that will be used to identify the anima
 **Output**<br>
 Print the animal name according to the given input.
 
-| Input Samples                                 | Output Samples    |
-|:----------------------------------------------|:------------------|
-| vertebrado    <br> mamifero   <br> onivoro    | homem             |
-| vertebrado    <br> ave        <br> carnivoro  | aguia             |
-| invertebrado  <br> anelideo   <br> onivoro    | minhoca           |
+**Input Samples **
+```
+vertebrado    
+mamifero   
+onivoro   
+```
+```
+vertebrado    
+ave        
+carnivoro 
+```
+```
+invertebrado  
+anelideo   
+onivoro
+```
+
+**Output Samples**
+```
+homem
+```         
+```
+aguia
+```
+```         
+minhoca
+```
