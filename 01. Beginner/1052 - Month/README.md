@@ -8,6 +8,12 @@ The input contains only an integer number.
 **Output**<br>
 Print the name of the month according to the input number, with the first letter in uppercase.
 
-| Input Sample  | Output Sample |
-|:--------------|:--------------|
-| 4             | April         |
+**Input Sample**
+```
+4
+```        
+
+**Output Sample**
+```
+April
+```
