@@ -17,8 +17,30 @@ Print 3 messages followed by the corresponding numbers (see example) informing t
 *Reajuste ganho:* means *"Money earned"*<br>
 *Em percentual:* means *"In percentage"*<br>
 
-| Input Sample  | Output Sample                                                                 |
-|:--------------|:------------------------------------------------------------------------------|
-| 400.00        | Novo salario: 460.00  <br> Reajuste ganho: 60.00  <br> Em percentual: 15 %    |
-| 800.01        | Novo salario: 880.01  <br> Reajuste ganho: 80.00  <br> Em percentual: 10 %    |
-| 2000.00       | Novo salario: 2140.00 <br> Reajuste ganho: 140.00 <br> Em percentual: 7 %     |
+**Input Samples**
+```
+400.00
+```
+```
+800.01
+```
+```      
+2000.00     
+```
+
+**Output Samples**
+```
+Novo salario: 460.00  
+Reajuste ganho: 60.00  
+Em percentual: 15 %
+```
+```
+Novo salario: 880.01  
+Reajuste ganho: 80.00  
+Em percentual: 10 %
+```
+```
+Novo salario: 2140.00 
+Reajuste ganho: 140.00
+Em percentual: 7 % 
+```
