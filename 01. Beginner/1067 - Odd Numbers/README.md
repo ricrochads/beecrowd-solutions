@@ -8,6 +8,15 @@ The input will be an integer value.
 **Output**<br>
 Print all odd values between 1 and **X**, including **X** if is the case.
 
-| Input Sample  | Output Sample          |
-|:--------------|:-----------------------|
-| 8             | 1 <br> 3 <br> 5 <br> 7 |
+**Input Sample**
+```
+8
+```
+
+**Output Sample**
+```
+1
+3
+5
+7
+```
