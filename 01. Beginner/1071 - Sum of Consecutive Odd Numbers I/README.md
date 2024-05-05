@@ -8,8 +8,24 @@ The input file contain two integer values.
 **Output**<br>
 The program must print an integer number. This number is the sum off all odd values between both input values that must fit in an integer number.
 
-| Sample Input  | Sample Output |
-|:--------------|:--------------|
-| 6  <br> -5    | 5             |
-| 15 <br> 12    | 13            |
-| 12 <br> 12    | 0             |
+**Input Samples**
+```
+6  <br> -5
+```
+```  
+15 <br> 12
+```
+```
+12 <br> 12
+```
+
+Output Samples
+```
+5
+```
+```
+13
+```
+```
+0
+```
