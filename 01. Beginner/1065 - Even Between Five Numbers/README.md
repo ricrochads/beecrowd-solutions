@@ -8,8 +8,16 @@ The input will be 5 integer values.
 **Output**<br>
 Print a message like the following example with all letters in lowercase, indicating how many even numbers were typed.
 
-| Input Sample                      | Output Sample     |
-|:----------------------------------|:------------------|
-| 7 <br> -5 <br> 6 <br> -4 <br> 12  | 3 valores pares   |
+**Input Sample**
+```
+7
+-5
+6
+-4
+12
+```
 
-
+**Output Sample** 
+```
+3 valores pares
+```
