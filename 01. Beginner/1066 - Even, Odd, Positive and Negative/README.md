@@ -8,6 +8,19 @@ The input will be 5 integer values.
 **Output**<br>
 Print a message like the following example with all letters in lowercase, indicating how many of these values ​​are even, odd, positive and negative.
 
-| Input Sample                      | Output Sample                                                                                             |
-|:----------------------------------|:----------------------------------------------------------------------------------------------------------|
-| -5 <br> 0 <br> -3 <br> -4 <br> 12 | 3 valor(es) par(es) <br> 2 valor(es) impar(es) <br> 1 valor(es) positivo(s) <br> 3 valor(es) negativo(s)  |
+**Input Sample**
+```
+-5
+0
+-3
+-4
+12
+```
+
+**Output Sample**
+```
+3 valor(es) par(es) 
+2 valor(es) impar(es) 
+1 valor(es) positivo(s)
+3 valor(es) negativo(s)
+```
