@@ -8,6 +8,17 @@ Six numbers, positive and/or negative.
 **Output**<br>
 Print a message with the total number of positive numbers.
 
-| Input Sample                                  | Output Sample         |
-|:----------------------------------------------|:----------------------|
-| 7 <br> -5 <br> 6 <br> -3.4 <br> 4.6 <br> 12   | 4 valores positivos   |
+**Input Sample**
+```
+7
+-5
+6
+-3.4
+4.6
+12
+```
+
+**Output Sample**     
+```
+4 valores positivos
+```
