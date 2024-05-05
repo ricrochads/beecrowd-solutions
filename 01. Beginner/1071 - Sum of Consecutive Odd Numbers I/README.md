@@ -10,16 +10,19 @@ The program must print an integer number. This number is the sum off all odd val
 
 **Input Samples**
 ```
-6  <br> -5
+6
+-5
 ```
 ```  
-15 <br> 12
+15
+12
 ```
 ```
-12 <br> 12
+12
+12
 ```
 
-Output Samples
+**Output Samples**
 ```
 5
 ```
