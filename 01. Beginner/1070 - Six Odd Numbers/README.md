@@ -8,6 +8,17 @@ The input will be a positive integer value.
 **Output**<br>
 The output will be a sequence of six odd numbers.
 
-| Input Sample | Output Sample                             |
-|:-------------|:------------------------------------------|
-| 8            | 9 <br> 11 <br> 13 <br> 15 <br> 17 <br> 19 |
+**Input Sample**
+```
+8 
+```          
+
+**Output Sample**
+```
+9
+11
+13
+15
+17
+19
+```
