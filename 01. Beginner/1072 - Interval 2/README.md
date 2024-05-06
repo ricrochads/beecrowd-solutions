@@ -12,13 +12,13 @@ Each case is an integer number **X** (-10<sup>7</sup> < **X** < 10<sup>7</sup>).
 For each test case, print how many numbers are in and how many values are out of the interval.
 
 **Input Sample**
-````
+```
 4
 14
 123
 10
 -25
-````
+```
 
 **Output Sample**
 ```
