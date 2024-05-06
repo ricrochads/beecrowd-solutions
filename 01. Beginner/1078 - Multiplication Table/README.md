@@ -29,5 +29,5 @@ Print the multiplication table of N, like the following example.
 7 x 140 = 980
 8 x 140 = 1120
 9 x 140 = 1260
-10 x 140= 1400
+10 x 140 = 1400
 ```
