@@ -8,6 +8,19 @@ The input file contains 100 distinct positive integer numbers.
 **Output**<br>
 Print the highest number read and the input position of this value, according to the given example.
 
-| Input Sample                                          | Output Sample |
-|:------------------------------------------------------|:--------------|
-| 2 <br> 113 <br> 45 <br> 34565 <br> 6 <br> ... <br> 8  | 34565 <br> 4  |
+**Input Sample**
+```
+2
+113
+45
+34565
+6
+...
+8
+```
+
+**Output Sample**
+```
+34565
+4
+```
