@@ -10,6 +10,14 @@ Print the square of each one of the even values from 1 to **N**, as the given ex
 
 Be carefull! Some language automaticly print 1e+006 instead 1000000. Please configure your program to print the correct format setting the output precision.
 
-| Input Sample  | Output Sample                         |
-|:--------------|:--------------------------------------|
-| 6             | 2^2 = 4 <br> 4^2 = 16 <br> 6^2 = 36   |
+**Input Sample**
+```
+6
+```         
+
+**Output Sample**                     
+```
+2^2 = 4
+4^2 = 16
+6^2 = 36
+```
