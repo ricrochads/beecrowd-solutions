@@ -13,6 +13,28 @@ The first line of input contains an integer **N** indicating the number of test 
 **Output**<br>
 Print the total of animals used, the total of each type of animal and the percentual of each one in relation of the total of animals used. The percentual must be printed with 2 digits after the decimal point.
 
-| Input Sample                                                                                      | Output Sample                                                                                                                                                                                         |
-|:--------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10 <br> 10 C <br> 6 R <br> 15 S <br> 5 C <br> 14 R <br> 9 C <br> 6 R <br> 8 S <br> 5 C <br> 14 R  | Total: 92 cobaias <br> Total de coelhos: 29 <br> Total de ratos: 40 <br> Total de sapos: 23 <br> Percentual de coelhos: 31.52 % <br> Percentual de ratos: 43.48 % <br> Percentual de sapos: 25.00 %   |
+**Input Sample**
+```
+10
+10 C 
+6 R
+15 S
+5 C
+14 R
+9 C
+6 R
+8 S
+5 C
+14 R
+```
+
+**Output Sample**
+```
+Total: 92 cobaias
+Total de coelhos: 29 
+Total de ratos: 40 
+Total de sapos: 23
+Percentual de coelhos: 31.52 %
+Percentual de ratos: 43.48 %
+Percentual de sapos: 25.00 %
+```
