@@ -18,17 +18,15 @@ class URI
             if (x < y)
             {
                 for (int currentNumber = x + 1; currentNumber < y; currentNumber++)
-                {
                     oddSum += currentNumber % 2 != 0 ? currentNumber : 0;
-                }
+
                 Console.WriteLine(oddSum);
             }
             else
             {
                 for (int currentNumber = y + 1; currentNumber < x; currentNumber++)
-                {
                     oddSum += currentNumber % 2 != 0 ? currentNumber : 0;
-                }
+
                 Console.WriteLine(oddSum);
             }
         }

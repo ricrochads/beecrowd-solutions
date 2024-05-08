@@ -8,6 +8,25 @@ The first line of input is an integer **N** that is the number of test cases tha
 **Output**<br>
 Print the sum of all odd numbers ***between*** **X and Y**.
 
-| Input Sample                                                       | Output Sample                                 |
-|:-------------------------------------------------------------------|:----------------------------------------------|
-| 7 <br> 4 5 <br> 13 10 <br> 6 4 <br> 3 3 <br> 3 5 <br> 3 4 <br> 3 8 | 0 <br> 11 <br> 5 <br> 0 <br> 0 <br> 0 <br> 12 |
+**Input Sample**
+```
+7 
+4 5
+13 10
+6 4
+3 3
+3 5
+3 4
+3 8
+```
+
+**Output Sample**
+```
+0
+11
+5
+0 
+0
+0
+12
+```
