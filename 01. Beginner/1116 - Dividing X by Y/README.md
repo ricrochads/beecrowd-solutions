@@ -10,6 +10,17 @@ For each test case print the result of this division with one digit after the de
 
 Obs.: Be careful. The division between two integers in some languages generates another integer. Use cast:
 
-| Input Sample	                 | Output Sample                         |
-|:-------------------------------|:--------------------------------------|
-| 3 <br> 3 -2 <br> -8 0 <br> 0 8 | -1.5 <br> divisao impossivel <br> 0.0 |
+**Input Sample**
+```
+3
+3 -2
+-8 0
+0 8
+``` 
+
+**Output Sample**
+```
+-1.5
+divisao impossivel
+0.0
+```
