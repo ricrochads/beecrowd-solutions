@@ -9,6 +9,17 @@ The input file contains many floating-point numbers​​, positive or negative.
 When an invalid score is read, you should print the message "nota invalida".
 After the input of two valid scores, the message "media = " must be printed followed by the average of the student. The average must be printed with 2 numbers after the decimal point.
 
-| Input Sample                      | Output Sample                                      |
-|:----------------------------------|:---------------------------------------------------|
-| -3.5 <br> 3.5 <br> 11.0 <br> 10.0 | nota invalida <br> nota invalida <br> media = 6.75 |
+**Input Sample**
+```
+-3.5
+3.5
+11.0
+10.0
+```
+
+**Output Sample**
+```
+nota invalida
+nota invalida
+media = 6.75
+```
