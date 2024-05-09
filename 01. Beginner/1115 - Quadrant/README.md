@@ -8,6 +8,19 @@ The input contains several tests cases. Each test case contains two integer numb
 **Output**<br>
 For each test case, print the corresponding quadrant which these coordinates belong, as in the example.
 
-| Input Sample	                              | Output Sample                                   |
-|:--------------------------------------------|:------------------------------------------------|
-| 2 2 <br> 3 -2 <br> -8 -1 <br> -7 1 <br> 0 2 | primeiro <br> quarto <br> terceiro <br> segundo |
+**Input Sample**
+```
+2 2
+3 -2
+-8 -1
+-7 1
+0 2
+```
+
+**Output Sample**
+```
+primeiro
+quarto
+terceiro
+segundo
+```
