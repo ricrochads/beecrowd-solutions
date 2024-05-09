@@ -8,6 +8,15 @@ The input file contains 2 any positive integers, not necessarily in ascending or
 **Output**<br>
 Print all numbers according to above description, always in ascending order.
 
-| Input Sample	| Output Sample      |
-|:--------------|:-------------------|
-| 10 <br> 18    | 12 <br> 13 <br> 17 |
+**Input Sample**
+````
+10
+18
+````  
+
+**Output Sample**
+````
+12
+13
+17
+````
