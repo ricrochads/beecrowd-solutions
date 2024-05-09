@@ -8,6 +8,20 @@ The input contains only integer and positive values.
 **Output**<br>
 It should be written the message: "MUITO OBRIGADO" and the amount of customers who fueled each fuel type, as an example.
 
-| Input Sample	                       | Output Sample                                                 |
-|:-------------------------------------|:--------------------------------------------------------------|
-| 8 <br> 1 <br> 7 <br> 2 <br> 2 <br> 4 | MUITO OBRIGADO <br> Alcool: 1 <br> Gasolina: 2 <br> Diesel: 0 |
+**Input Sample**
+````
+8
+1
+7
+2
+2
+4
+````
+
+**Output Sample**
+````
+MUITO OBRIGADO
+Alcool: 1
+Gasolina: 2
+Diesel: 0
+````
