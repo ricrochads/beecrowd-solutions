@@ -8,6 +8,17 @@ The input file contains several test cases. Each test case contains two integer 
 **Output**<br>
 For each test case print “Crescente”, if the values X and Y are in ascending order, otherwise print “Decrescente”.
 
-| Input Sample	                 | Output Sample                               |
-|:-------------------------------|:--------------------------------------------|
-| 5 4 <br> 7 2 <br> 3 8 <br> 2 2 | Decrescente <br> Decrescente <br> Crescente |
+**Input Sample**
+```
+5 4 
+7 2
+3 8
+2 2
+``` 
+
+**Output Sample**
+```
+Decrescente
+Decrescente
+Crescente
+```
