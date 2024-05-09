@@ -14,6 +14,24 @@ The input contains two integer values​​, corresponding to the goals scored b
 **Output**<br>
 After each reading of the goals it must be printed the message "Novo grenal (1-sim 2-nao)". When the program is finished, the program must print the statistics as the example below.
 
-| Input Sample	                             | Output Sample                                                                                                                                                           |
-|:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 2 <br> 1 <br> 2 3 <br> 1 <br> 3 1 <br> 2 | Novo grenal (1-sim 2-nao) <br> Novo grenal (1-sim 2-nao) <br> Novo grenal (1-sim 2-nao) <br> 3 grenais <br> Inter:2 <br> Gremio:1 <br> Empates:0 <br> Inter venceu mais |
+**Input Sample**
+````
+3 2
+1
+2 3
+1
+3 1
+2
+````
+
+**Output Sample**
+````
+Novo grenal (1-sim 2-nao)
+Novo grenal (1-sim 2-nao) 
+Novo grenal (1-sim 2-nao) 
+3 grenais 
+Inter:2 
+Gremio:1
+Empates:0 
+Inter venceu mais
+````
