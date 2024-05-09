@@ -8,6 +8,16 @@ The input file contains an integer N.
 **Output**<br>
 Print the output according to the given example.
 
-| Input Sample | Output Sample                                           |
-|:-------------|:--------------------------------------------------------|
-| 5            | 1 1 1 <br> 2 4 8 <br> 3 9 27 <br> 4 16 64 <br> 5 25 125 |
+**Input Sample**
+````
+5
+````        
+
+**Output Sample**
+````
+1 1 1
+2 4 8 
+3 9 27 
+4 16 64
+5 25 125
+````
