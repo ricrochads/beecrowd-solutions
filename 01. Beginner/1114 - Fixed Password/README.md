@@ -8,6 +8,18 @@ The input file contains several tests cases. Each test case contains only an int
 **Output**<br>
 For each number read print a message corresponding to the description of the problem.
 
-| Input Sample                       | Output Sample                                                                |
-|:-----------------------------------|:-----------------------------------------------------------------------------|
-| 2200 <br> 1020 <br> 2022 <br> 2002 | Senha Invalida <br> Senha Invalida <br> Senha Invalida <br> Acesso Permitido |
+**Input Sample**
+```
+2200 
+1020
+2022
+2002
+```
+
+**Output Sample**
+```
+Senha Invalida
+Senha Invalida
+Senha Invalida
+Acesso Permitido
+```
