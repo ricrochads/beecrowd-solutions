@@ -10,6 +10,16 @@ The output contains a value corresponding to the average age of individuals.
 
 The average should be printed with two digits after the decimal point.
 
-| Input Sample                       | Output Sample |
-|:-----------------------------------|:--------------|
-| 34 <br> 56 <br> 44 <br> 23 <br> -2 | 39.25         |
+**Input Sample**
+````
+34
+56
+44
+23
+-2
+````
+
+**Output Sample**
+````
+39.25
+````
