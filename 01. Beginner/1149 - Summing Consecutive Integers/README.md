@@ -8,7 +8,18 @@ The input contains only integer values, ​​can be positive or negative.
 **Output**<br>
 The output contains only an integer value.
 
-| Input Sample | Output Sample |
-|:-------------|:--------------|
-| 3 2          | 7             |
-| 3 -1 0 -2 2  | 7             |
+**Input Samples**
+````
+3 2
+````
+````         
+3 -1 0 -2 2 
+````
+
+**Output Samples**
+````
+7
+````
+````
+7
+````
