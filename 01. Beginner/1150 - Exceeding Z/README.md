@@ -10,6 +10,14 @@ The input contains only integer values​​, one per line, which may be positiv
 **Output**<br>
 Print a line with an integer number representing the among of integer numbers that must be summed.
 
-| Input Sample     | Output Sample |
-|:-----------------|:--------------|
-| 3 <br> 1 <br> 20 | 5             |
+**Input Sample**
+````
+3 
+1
+20 
+````
+
+**Output Sample**
+````
+5
+````          
