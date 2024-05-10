@@ -8,6 +8,12 @@ The input contains an integer value N (0 < N < 13).
 **Output**<br>
 The output contains an integer value corresponding to the factorial of N.
 
-| Input Sample | Output Sample |
-|:-------------|:--------------|
-| 4            | 24            |
+**Input Sample**
+````
+4           
+````
+
+**Output Sample**
+````
+24
+````
