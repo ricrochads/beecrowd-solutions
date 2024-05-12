@@ -20,9 +20,10 @@ Then your job will display the name and amount of products of each category.
 | categories |
 |:----------:|
 
-Column	Type
-id (PK)	numeric
-name	varchar
+| Column   | Type    |
+|:---------|:--------|
+| id (PK)  | numeric |
+| name	   | varchar |
 
 **Tables**
 
