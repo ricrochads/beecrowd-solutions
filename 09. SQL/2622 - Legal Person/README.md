@@ -47,7 +47,7 @@ The sales industry wants to make a promotion for all clients that are legal enti
 | 4	           | 85883842000191 | 99767-0562 |
 | 5	           | 47773848000117 | 99100-8965 |
 
-Output Sample
+**Output Sample**
 
 | name                             |
 |:---------------------------------|
