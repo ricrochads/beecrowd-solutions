@@ -32,21 +32,30 @@
 
 ## 09. SQL
 
-| #    | NAME                                  | LEVEL | LANGUAGE   | PROBLEM | SOLUTION |
-|:----:|:--------------------------------------|:-----:|:----------:|:--------|:---------|
-| 2602 | Basic Select                          | 4     | PostgreSQL |         |          |
-| 2603 | Customer Address                      | 1     | PostgreSQL |         |          |
-| 2604 | Under 10 or Greater Than 100          | 2     | PostgreSQL |         |          |
-| 2605 | Executive Representatives             | 4     | PostgreSQL |         |          |
-| 2606 | Categories                            | 3     | PostgreSQL |         |          |
-| 2607 | Providers' City in Alphabetical Order | 1     | PostgreSQL |         |          |
-| 2608 | Higher and Lower Price                | 1     | PostgreSQL |         |          |
-| 2609 | Products by Categories                | 6     | PostgreSQL |         |          |
-| 2610 | Average Value of Products             | 3     | PostgreSQL |         |          |
-| 2611 | Action Movies                         | 4     | PostgreSQL |         |          |
-| 2613 | Cheap Movies                          | 2     | PostgreSQL |         |          |
-| 2614 | September Rentals                     | 5     | PostgreSQL |         |          |
-| 2615 | Expanding the Business                | 1     | PostgreSQL |         |          |
-| 2616 | No Rental                             | 5     | PostgreSQL |         |          |
-
-
+| #    | NAME                                  | LEVEL | LANGUAGE   |
+|:----:|:--------------------------------------|:-----:|:----------:|
+| 2602 | Basic Select                          | 4     | PostgreSQL |
+| 2603 | Customer Address                      | 1     | PostgreSQL |
+| 2604 | Under 10 or Greater Than 100          | 2     | PostgreSQL |
+| 2605 | Executive Representatives             | 4     | PostgreSQL |
+| 2606 | Categories                            | 3     | PostgreSQL |
+| 2607 | Providers' City in Alphabetical Order | 1     | PostgreSQL |
+| 2608 | Higher and Lower Price                | 1     | PostgreSQL |
+| 2609 | Products by Categories                | 6     | PostgreSQL |
+| 2610 | Average Value of Products             | 3     | PostgreSQL |
+| 2611 | Action Movies                         | 4     | PostgreSQL |
+| 2613 | Cheap Movies                          | 2     | PostgreSQL |
+| 2614 | September Rentals                     | 5     | PostgreSQL |
+| 2615 | Expanding the Business                | 1     | PostgreSQL |
+| 2616 | No Rental                             | 5     | PostgreSQL |
+| 2617 | Provider Ajax SA                      | 1     | PostgreSQL |           
+| 2618 | Imported Products                     | 3     | PostgreSQL |
+| 2619 | Super Luxury		                   | 2     | PostgreSQL |
+| 2620 | Orders in First Half                  | 3     | PostgreSQL |
+| 2621 | Amounts Between 10 and 20		       | 3     | PostgreSQL |
+| 2622 | Legal Person		                   | 1     | PostgreSQL |
+| 2623 | Categories with Various Products	   | 4     | PostgreSQL |
+| 2624 | Number of Cities per Customers		   | 3     | PostgreSQL |
+| 2625 | CPF Validation	                       | 4     | PostgreSQL |
+| 2737 | Lawyers                               | 6     | PostgreSQL |
+| 2738 | Contest                               | 4     | PostgreSQL |
