@@ -2,7 +2,7 @@
 
 Given the following balanced binary tree stored in the nodes table, classify each node with types LEAF, INNER, and ROOT. Present the result ordered by the value of the node identifier.
 
-![3481_classifying_a_tree.webp]()
+![3481_classifying_a_tree.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/09.%20SQL/3481%20-%20Classifying%20a%20Tree/3481_classifying_a_tree.webp)
 
 **Scheme**
 
