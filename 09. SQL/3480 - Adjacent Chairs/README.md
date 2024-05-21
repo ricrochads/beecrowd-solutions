@@ -2,7 +2,7 @@
 
 Find the adjacent and available seats in each row of the classroom. The first column of the result must contain the row identifier, the second column the number of the chair on the left and the third the number of the chair on the right. The result must be ordered by the value of the second column of the result (left).
 
-![3480_adjacent_chairs.webp]()
+![3480_adjacent_chairs.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/09.%20SQL/3480%20-%20Adjacent%20Chairs/3480_adjacent_chairs.webp)
 
 **Scheme**
 
