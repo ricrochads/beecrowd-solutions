@@ -17,6 +17,7 @@ Given a single-column table with integers values, which is the most frequent val
 |:-----------:|
 
 | amount |
+|:-------|
 | 4      |
 | 6      |
 | 7      |
