@@ -2,7 +2,7 @@
 
 In a social network with several users who share information, it is common for one user to follow others. Determine which users follow each other: for example Franciso follows Laura and Laura follows Francisco. The result must contain two columns with the names of the two users that follow each other. The first column must contain the name of the user with the lowest number of posts and the second the highest number of posts, for example between Francisco and Laura, Francisco has 23 posts and Laura 55, so Francisco appears in the first column and Laura in the second column. Furthermore, you must order the result by the user id in the first column.
 
-![3482_followers.webp]()
+![3482_followers.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/09.%20SQL/3482%20-%20Followers/3482_followers.webp)
 
 **Scheme**
 
