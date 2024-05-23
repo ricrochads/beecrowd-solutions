@@ -10,6 +10,15 @@ The first line of the input is an integer **N** that is the number of test cases
 **Output**<br>
 Print the sum of all consecutive odd numbers from **X**.
 
-| Input Sample	       | Output Sample |
-|:---------------------|:--------------|
-| 2 <br> 4 3 <br> 11 2 | 21 <br> 24    |
+Input Sample	       
+````
+2
+4 3
+11 2 
+````
+
+Output Sample
+````
+21
+24
+````   
