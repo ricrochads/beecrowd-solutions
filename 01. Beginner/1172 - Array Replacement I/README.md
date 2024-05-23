@@ -8,6 +8,20 @@ The input contains 10 integer numbers. These numbers ​​can be positive or ne
 **Output**<br>
 For each position of the array, print "X [**i**] = **x**", where **i** is the position of the array and **x** is the number stored in that position.
 
-| Input Sample	                    | Output Sample                                                |
-|:----------------------------------|:-------------------------------------------------------------|
-| 0 <br> -5 <br> 63 <br> 0 <br> ... | X[0] = 1 <br> X[1] = 1 <br> X[2] = 63 <br> X[3] = 1 <br> ... |
+**Input Sample**
+````
+0 
+-5
+63 
+0 
+...
+```` 
+
+**Output Sample**
+````
+X[0] = 1
+X[1] = 1
+X[2] = 63
+X[3] = 1
+...
+````
