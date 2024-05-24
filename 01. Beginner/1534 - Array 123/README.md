@@ -8,6 +8,23 @@ The input contains many test cases and ends with EOF. Each test case consist in 
 **Output**<br>
 For each N read, print the output according to the given example.
 
-| Sample Input | Sample Output                                                                                                                 |
-|:-------------|:------------------------------------------------------------------------------------------------------------------------------|
-| 4 <br> 7     | 1332 <br> 3123 <br> 3213 <br> 2331 <br> 1333332 <br> 3133323 <br> 3313233 <br> 3332333 <br> 3323133 <br> 3233313 <br> 2333331 |
+**Sample Input**
+````
+4
+7
+````    
+
+**Sample Output**
+````
+1332 
+3123 
+3213 
+2331 
+1333332 
+3133323 
+3313233 
+3332333 
+3323133 
+3233313 
+2333331
+````
