@@ -18,7 +18,6 @@ For each integer number of input, print the corresponding array according to the
 0        
 ````
 
-
 **Sample Output**
 ````
 1
