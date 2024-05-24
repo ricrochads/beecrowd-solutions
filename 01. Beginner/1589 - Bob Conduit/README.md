@@ -14,6 +14,17 @@ On the only line of each test case we will have the two integers **R1** and **R2
 **Output**<br>
 In each test case, output the answer in a single line.
 
-| Sample Input	               | Sample Output     |
-|:-----------------------------|:------------------|
-| 3 <br> 1 1 <br> 2 8 <br> 8 2 | 2 <br> 10 <br> 10 |
+**Sample Input**
+````
+3 
+1 1
+2 8
+8 2
+````
+
+**Sample Output**
+``
+2 
+10
+10
+````
