@@ -23,7 +23,7 @@ In each test case, output the answer in a single line.
 ````
 
 **Sample Output**
-``
+````
 2 
 10
 10
