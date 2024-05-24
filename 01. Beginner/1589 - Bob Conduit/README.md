@@ -2,7 +2,7 @@
 
 You have gotten two circular energy cables. The first one has radius R1 and the second R2. You need to buy a circular conduit (see the image below) that fits those two cables:
 
-![1589_BobConduit.jpg](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.Beginner/1589%20-%20Bob%20Conduit/1589_BobConduit.jpg)
+![1589_BobConduit.jpg](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/1589%20-%20Bob%20Conduit/1589_BobConduit.jpg)
 
 What is the smallest radius of a conduit you need to buy? In other words, given two circles, what is the smallest radius of a third circle that circumscribe the other two?
 
