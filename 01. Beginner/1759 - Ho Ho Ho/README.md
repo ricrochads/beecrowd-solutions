@@ -10,6 +10,12 @@ The input consists of a single integer **N** (0 < **N** ≤ 10^6) representing h
 **Output**<br>
 The output consists of all "Ho" that Santa should speak separated by a space. After the last "Ho" you must present an "!" ending the program.
 
-| Input Sample | Output Sample   |
-|:-------------|:----------------|
-| 5            | Ho Ho Ho Ho Ho! |
+**Input Sample**
+````
+5
+````
+
+**Output Sample**
+````
+Ho Ho Ho Ho Ho!
+````
