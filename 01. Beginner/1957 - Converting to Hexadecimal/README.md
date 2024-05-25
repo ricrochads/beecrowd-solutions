@@ -10,10 +10,36 @@ The input is a positive integer number **V** at base 10 (1 ≤ **V** ≤ 2 x 10^
 **Output**<br>
 The output is the same number **V** at base 16 in a single line (don't forget the end-of-line character). Use uppercase letters, as shown in the examples.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 10            | A              |
-| 15            | F              |
-| 16            | 10             |
-| 31            | 1F             |
-| 65535         | FFFF           |
+**Input Samples**
+````
+10
+````
+````
+15
+````
+````
+16 
+````
+````
+31
+````
+````
+65535
+````
+
+**Output Samples**
+````
+A 
+````
+````            
+F 
+````
+````            
+10
+````
+````            
+1F 
+````
+````           
+FFFF   
+````       
