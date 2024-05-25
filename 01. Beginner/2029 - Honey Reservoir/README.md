@@ -16,11 +16,22 @@ For each test, the output contains the first line "ALTURA = " message, with a sp
 
 - Do not forget the line break at the end of the exit, otherwise you will get "Presentation Error".
 
-| Input Sample | Output Sample  |
-|:-------------|:---------------|
-| 1450.00      | ALTURA = 2.96  |
-| 25.00        | AREA = 490.62  |
-| 760.00       | ALTURA = 0.61  |
-| 40.00        | AREA = 1256.00 |
-| 7500.00      | ALTURA = 42.46 |
-| 15.00        | AREA = 176.62  |
+**Input Sample**
+````
+1450.00     
+25.00       
+760.00      
+40.00       
+7500.00     
+15.00 
+````
+
+**Output Sample**
+````
+ALTURA = 2.96 
+AREA = 490.62 
+ALTURA = 0.61 
+AREA = 1256.00
+ALTURA = 42.46
+AREA = 176.62 
+````
