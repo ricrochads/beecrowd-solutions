@@ -12,6 +12,17 @@ The input is initiated by a line containing two integer numbers, **N** and **M**
 **Output**<br>
 The output must consist of a line containing the final number of tabs.
 
-|Input Sample	                                                  | Output Sample |
-|:----------------------------------------------------------------|:--------------|
-| 3 5 <br> fechou <br> fechou <br> clicou <br> clicou <br> clicou | 2             |
+**Input Sample**
+````
+3 5 
+fechou 
+fechou 
+clicou 
+clicou 
+clicou
+```` 
+
+**Output Sample**
+````
+2 
+````           
