@@ -8,9 +8,18 @@ The entry will have many test cases. Each test case will have a number **N**, re
 **Output**<br>
 For each test case, print the corresponding password. In all cases, the formula will be the same in the examples below.
 
-| Input Sample | Output Sample |
-|:-------------|:--------------|
-| 1234         | 1233          |
-| 2000         | 1999          |
-| 1001         | 1000          |
-| 9999         | 9998          |
+**Input Sample**
+````
+1234         
+2000         
+1001         
+9999
+````         
+
+**Output Sample**
+````
+1233         
+1999         
+1000         
+9998
+````         
