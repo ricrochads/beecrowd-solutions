@@ -18,7 +18,18 @@ The input consists of a single line, which contains two integers **A** (1 ≤ **
 **Output**<br>
 Your program must produce a single line, containing exactly one integer, representing the value of the card that maximizes the probability of the player winning the game.
 
-| Input Example | Output Example |
-|:--------------|:---------------|
-| 10 7          | 10             |
-| 2 2           | 2              |
+**Input Samples**
+````
+10 7  
+````
+````       
+2 2
+````        
+
+**Output Samples**
+````
+10
+````
+````
+2
+````          
