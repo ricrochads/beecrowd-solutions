@@ -12,8 +12,24 @@ The input consists of a line with four integers **T1**, **T2**, **T3**, **T4**, 
 **Output**<br>
 Your program should produce a single line containing a single integer indicating the maximum number of devices that can be connected to the energy in the same instant.
 
-|Input Example | Output Example |
-|:-------------|:---------------|
-| 2 4 3 2      | 8              |
-| 6 6 6 6      | 21             |
-| 2 2 2 2      | 5              |
+**Input Samples**
+````
+2 4 3 2
+````
+````
+6 6 6 6 
+````
+````
+2 2 2 2
+````
+
+**Output Samples**
+````
+8 
+````
+````
+21   
+````
+````
+5 
+````
