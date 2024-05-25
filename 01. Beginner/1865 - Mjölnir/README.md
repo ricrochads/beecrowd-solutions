@@ -12,6 +12,19 @@ An integer C shall be informed, which is the amount of test cases. Each test cas
 **Output**<br>
 For each test case print a 'Y' character, if the person has managed to raise or 'N' if you have not achieved .
 
-| Input Sample	                                              | Output Sample          |
-|:------------------------------------------------------------|:-----------------------|
-| 4 <br> Hulk 5000 <br> Tony 1000 <br> Thor 50 <br> Steve 500 | N <br> N <br> Y <br> N |
+Input Sample
+````
+4
+Hulk 5000 
+Tony 1000 
+Thor 50 
+Steve 500
+````
+
+Output Sample
+````
+N 
+N 
+Y 
+N
+````
