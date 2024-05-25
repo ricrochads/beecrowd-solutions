@@ -12,7 +12,20 @@ The first line contains an integer **T** representing the tea type (1 ≤ **T** 
 **Output**<br>
 Output a line with an integer representing the number of contestants who got the correct answer.
 
-| Input Samples	   |Output Samples |
-|:-----------------|:--------------|
-| 1 <br> 1 2 3 2 1 | 2             |
-| 3 <br> 4 1 1 2 1 | 0             |
+**Input Samples**
+````
+1 
+1 2 3 2 1
+````
+````
+3 
+4 1 1 2 1 
+````
+
+**Output Samples**
+````
+2   
+````
+````         
+0
+````         
