@@ -12,6 +12,16 @@ The second line contains **N** integers **Li** (1 ≤ **Li** ≤ 100), represent
 **Output**<br>
 Print the amount of multiples of **2**, **3**, **4** and **5** in the list. Note the formatting of the output in the output sample, because it must be followed strictly. "Multiplo(s)" means "Multiple(s)" in English, but you must print the message in Portuguese.
 
-| Input Sample	     | Output Sample                                                                              |
-|:-------------------|:-------------------------------------------------------------------------------------------|
-| 5 <br> 2 5 4 20 10 | 4 Multiplo(s) de 2 <br> 0 Multiplo(s) de 3 <br> 2 Multiplo(s) de 4 <br> 3 Multiplo(s) de 5 |
+**Input Sample**
+````
+5 
+2 5 4 20 10
+````
+
+**Output Sample**
+````
+4 Multiplo(s) de 2 
+0 Multiplo(s) de 3 
+2 Multiplo(s) de 4 
+3 Multiplo(s) de 5
+````
