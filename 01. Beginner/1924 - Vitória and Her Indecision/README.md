@@ -8,7 +8,24 @@ The first line of the input is an integer 1 ≤ n ≤ 2000, representing the num
 **Output**<br>
 Print the name of the course Vitória must take in portuguese without accentuation.
 
-| Input Samples	                                                        | Output Samples        |
-|:----------------------------------------------------------------------|:----------------------|
-| 3 <br> Ciencia da Computacao <br> Engenharia Eletrica <br> Matematica | Ciencia da Computacao |
-| 3 <br> Sociologia <br> Filosofia <br> Fisica                          | Ciencia da Computacao |
+**Input Samples**
+````
+3 
+Ciencia da Computacao 
+Engenharia Eletrica 
+Matematica
+````
+````
+3 
+Sociologia 
+Filosofia 
+Fisica                         
+````
+
+**Output Samples**
+````
+Ciencia da Computacao
+````
+````
+Ciencia da Computacao
+````
