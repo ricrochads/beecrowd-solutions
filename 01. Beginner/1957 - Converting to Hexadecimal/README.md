@@ -5,7 +5,7 @@ Data stored in computers are in binary. An economic way of visualizing these num
 Your task is to write a program that, given a natural number at base 10, shows its representation in hexadecimal.
 
 **Input**<br>
-The input is a positive integer number **V** at base 10 (1 ≤ **V** ≤ 2 x 10^9).
+The input is a positive integer number **V** at base 10 (1 ≤ **V** ≤ 2 x 10<sup>9</sup>).
 
 **Output**<br>
 The output is the same number **V** at base 16 in a single line (don't forget the end-of-line character). Use uppercase letters, as shown in the examples.
