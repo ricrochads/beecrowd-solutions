@@ -8,6 +8,17 @@ An integer C shall be informed, which is the amount of test cases. Each test cas
 **Output**<br>
 For each test case print a number S, which is the sum of N terms of expression.
 
-| Input Sample	           | Output Sample   |
-|:-------------------------|:----------------|
-| 3 <br> 11 <br> 7 <br> 18 | 1 <br> 1 <br> 0 |
+**Input Sample**
+````
+3 
+11 
+7 
+18
+```` 
+
+**Output Sample**
+````
+1 
+1 
+0
+````
