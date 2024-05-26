@@ -10,6 +10,17 @@ There will be several test cases. Each test case contains two values: **X** (0 <
 **Output**<br>
 For each case, your program should show a value **E**, value of new Monster EXP.
 
-| Input Sample	                                        | Output Sample                            |
-|:------------------------------------------------------|:-----------------------------------------|
-| 1 544768710 <br> 2 538533133 <br> 3 38884958 <br> 0 0 | 544768710 <br> 1077066266 <br> 116654874 |
+**Input Sample**
+````
+1 544768710 
+2 538533133 
+3 38884958 
+0 0 
+````
+
+**Output Sample**
+````
+544768710 
+1077066266 
+116654874
+````
