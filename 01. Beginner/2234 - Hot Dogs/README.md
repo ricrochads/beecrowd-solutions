@@ -12,10 +12,36 @@ The input consists of a single line containing two integers **H** and **P** (1 â
 **Output**<br>
 Your program should produce a single line with a rational number representing the average hot dogs consumed by the participants. The result should be written as a rational number with exactly two digits after the decimal point, rounded if necessary.
 
-| Input Examples | Output Examples |
-|:---------------|:----------------|
-| 10 90          | 0.11            |
-| 840 11         | 76.36           |
-| 1 50           | 0.02            |
-| 34 1000        | 0.03            |
-| 35 1000        | 0.04            |
+**Input Samples**
+````
+10 90
+````
+````
+840 11
+````
+````
+1 50
+````
+````
+34 1000
+````
+````       
+35 1000
+````
+
+**Output Samples**
+````
+0.11
+````
+````           
+76.36
+````
+````          
+0.02
+````
+````           
+0.03
+````
+````           
+0.04
+````           
