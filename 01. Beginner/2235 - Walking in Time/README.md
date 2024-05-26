@@ -10,8 +10,24 @@ The input consists of a single line containing three credits **A**, **B** e **C*
 **Output**<br>
 Your program should print a line containing the character '**S**' if it possible travel in time and back to present, or '**N**' if it's not possible.
 
-| Input Examples | Output Examples |
-|:---------------|:----------------|
-| 22 5 22        | S               |
-| 31 110 79      | S               |
-| 45 8 7         | N               |
+**Input Samples**
+````
+22 5 22
+````
+````    
+31 110 79
+````
+````
+45 8 7
+````        
+
+**Output Samples**
+````
+S
+````
+````
+S
+````
+````
+N
+````
