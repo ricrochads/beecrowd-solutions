@@ -14,8 +14,24 @@ Each test case consists of one line containing the message **S**, which has at l
 **Output**<br>
 Print one line containing the message **S** with the extra bit **B**.
 
-|Input Samples | Output Samples |
-|:-------------|:---------------|
-| 10           | 101            |
-| 000110       | 0001100        |
-| 0            | 00             |
+**Input Samples**
+````
+10
+````
+````
+000110
+````
+````
+0
+````
+
+**Output Samples**
+````
+101
+````
+````
+0001100
+````
+````       
+00
+````
