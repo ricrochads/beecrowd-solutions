@@ -10,14 +10,17 @@ The first line contains the number of test cases. Each line of a test case has t
 **Output**<br>
 For each test case, print the time of the occurrence, in due form, followed by a space, a hyphen and a space, and the phrase "A porta abriu!" or "A porta fechou!" as the occurrence recorded.
 
-| Input Sample | Output Sample           |
-|:-------------|:------------------------|
-| 3            |                         |
-| 15 30 1      | 15:30 - A porta abriu!  |
-| 23 50 0      | 23:50 - A porta fechou! |
-| 0 5 1        | 00:05 - A porta abriu!  |
+**Input Sample**
+````
+3            
+15 30 1      
+23 50 0      
+0 5 1
+````        
 
-
-
-
-
+**Output Sample**
+````
+15:30 - A porta abriu! 
+23:50 - A porta fechou!
+00:05 - A porta abriu! 
+````
