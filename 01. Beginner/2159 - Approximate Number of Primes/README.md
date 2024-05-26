@@ -12,8 +12,24 @@ The input is a natural number **n** (17 ≤ **n** ≤ 10^9).
 **Output**<br>
 The output is given as two values **P** and **M** with 1 decimal place each, such that **P** < **(n)** < **M** according to the given inequality above. These two values have one blank space between them.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 17            | 6.0 7.5        |
-| 50            | 12.8 16.0      |
-| 100           | 21.7 27.3      |
+**Input Samples**
+````
+17
+````
+````
+50
+````
+````
+100
+````          
+
+**Output Samples**
+````
+6.0 7.5
+````
+````
+12.8 16.0
+````
+````
+21.7 27.3
+````     
