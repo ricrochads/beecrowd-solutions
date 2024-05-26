@@ -4,7 +4,7 @@ The method of periodic continued fractions is one of the many ways to calculate 
 
 For example, by repeating 2 times the continued fraction to calculate the square root of 2, we have the following equation.
 
-![2166_SquareRootOf2.webp]()
+![2166_SquareRootOf2.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/2166%20-%20Square%20Root%20of%202/2166_SquareRootOf2.webp)
 
 Your task is to calculate the approximate value of square root of 2 given the number **N** of repetitions.
 
