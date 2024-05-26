@@ -2,7 +2,7 @@
 
 Schoenfeld and Rosser published a paper in 1962 describing a minimum and a maximum value to the quantity of prime numbers up to **n**, for **n** ≥ 17. This quantity is represented by the function **(n)** and the inequality is shown below.
 
-![2159_ApproximateNumberOfPrimes.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.Beginner/2159%20-%20Approximate%20Number%20of%20Primes/2159_ApproximateNumberOfPrimes.webp)
+![2159_ApproximateNumberOfPrimes.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/2159%20-%20Approximate%20Number%20of%20Primes/2159_ApproximateNumberOfPrimes.webp)
 
 Your task is, given a natural number **n**, to compute the interval's minimum and maximum values to the approximate number of primes up to **n**.
 
