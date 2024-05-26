@@ -14,8 +14,36 @@ The first line of input has a positive integer **N** (1 ≤ **N** ≤ 100). For 
 **Output**<br>
 The output is given in **N** lines. Each line has **N** characters, indicating whether the corresponding block is safe or unsafe. If a block is safe, you must print the character S; if it is not safe, print the character U.
 
-| Input Samples	                                        | Output Samples        |
-|:------------------------------------------------------|:----------------------|
-| 1 <br> 1 0 <br> 0 0                                   | U                     |
-| 2 <br> 1 0 0 <br> 1 1 0 <br> 0 0 1                    | SU <br> SS            |
-| 3 <br> 1 1 0 1 <br> 1 0 1 0 <br> 1 0 0 1 <br> 0 1 1 0 | SSS <br> SUS <br> SSS |
+**Input Samples**
+````
+1 
+1 0 
+0 0
+````
+````                                  
+2 
+1 0 0 
+1 1 0 
+0 0 1
+````
+````
+3 
+1 1 0 1 
+1 0 1 0 
+1 0 0 1 
+0 1 1 0 
+````
+
+**Output Samples**
+````
+U
+````
+````                    
+SU
+SS
+````
+````           
+SSS
+SUS 
+SSS
+````
