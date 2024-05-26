@@ -14,8 +14,24 @@ The input is a natural number **N** (0 ≤ **N** ≤ 100) that indicates the qua
 **Output**<br>
 The output is the approximate value of the square root with 10 decimal places.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 0             | 3.0000000000   |
-| 1             | 3.1666666667   |
-| 5             | 3.1622776623   |
+Input Samples
+````
+0
+````
+````
+1
+````
+````
+5
+````
+
+Output Samples
+````
+3.0000000000
+````
+````
+3.1666666667
+````
+````
+3.1622776623
+````
