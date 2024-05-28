@@ -7,7 +7,7 @@ Since your skills are beyond compare, videos of your matches (your famous gamepl
 The page publishes many videos every day. Thus, it may be hard to find and count all your videos published already. However, since you are also a programmer, you decided to write a computer program to help you with this task. Given the list of gameplays published by the page, determine how many of them are videos of you playing Contra-Strike.
 
 **Input**<br>
-The input contains several test cases. The first line of each test case contains two integers **N** and **I** (1 ≤ **N** ≤ 10^4, 1000 ≤ **I** ≤ 9999), the number of gameplays published by the page and your university ID, respectively.
+The input contains several test cases. The first line of each test case contains two integers **N** and **I** (1 ≤ **N** ≤ 10<sup>4</sup>, 1000 ≤ **I** ≤ 9999), the number of gameplays published by the page and your university ID, respectively.
 
 The next **N** lines describe the published videos. Each gameplay is described by two integers **i** and **j** (1000 ≤ **i** ≤ 9999, **j**=0 or 1), where **i** is the author’s university ID and **j**=0 if the gameplay is a Contra-Strike one, or **j**=1 if it is a Liga of Legendas one.
 
@@ -18,13 +18,13 @@ For each test case, print a single line containing a number indicating how many 
 
 **Input Sample**
 ````
-7 5558 
-5693 1 
-5558 0 
-6009 1 
-5558 1 
-1566 0 
-5558 0 
+7 5558
+5693 1
+5558 0
+6009 1
+5558 1
+1566 0
+5558 0
 8757 1
 ````
 
