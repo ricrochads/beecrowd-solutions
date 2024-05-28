@@ -8,6 +8,17 @@ The input will have several test cases. For each test case, a **N** number is di
 **Output**<br>
 For each test case, print Toorg's answer.
 
-| Input Sample                                                          | Output Sample                                 |
-|:----------------------------------------------------------------------|:----------------------------------------------|
-| 3 <br> Who are you? <br> How old are you? <br> What can I do for you? | I am Toorg! <br> I am Toorg! <br> I am Toorg! |
+**Input Sample**
+````
+3 
+Who are you? 
+How old are you? 
+What can I do for you?
+````
+
+**Output Sample**
+````
+I am Toorg! 
+I am Toorg!
+I am Toorg!
+````
