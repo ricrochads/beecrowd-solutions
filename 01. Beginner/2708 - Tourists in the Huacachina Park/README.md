@@ -8,7 +8,30 @@ The program must receive successive input pairs. Each pair should indicate the j
 **Output**<br>
 As a goal the program must present two exits, one in each line: the amount of tourists and the amount of jeeps that still need to return from the park.
 
-| Input Samples	                                                                                | Output Samples |
-|:----------------------------------------------------------------------------------------------|:---------------|
-| SALIDA 10 <br> SALIDA 12 <br> SALIDA 10 <br> VUELTA 20 <br> ABEND                             | 12 <br> 2      |
-| SALIDA 15 <br> SALIDA 20 <br> VUELTA 15 <br> VUELTA 15 <br> SALIDA 0 <br> VUELTA 0 <br> ABEND | 5  <br> 0      |
+**Input Samples**
+````
+SALIDA 10 
+SALIDA 12 
+SALIDA 10 
+VUELTA 20 
+ABEND
+````
+````                         
+SALIDA 15 
+SALIDA 20 
+VUELTA 15 
+VUELTA 15 
+SALIDA 0 
+VUELTA 0 
+ABEND
+````
+
+**Output Samples**
+````
+12 
+2
+````
+````     
+5
+0
+````     
