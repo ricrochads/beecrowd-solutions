@@ -16,6 +16,19 @@ The input ends with end-of-file (EOF).
 **Output**<br>
 For each test case, print a single line containing a number indicating how many videos of you playing Contra-Strike were published by the page.
 
-| Input Sample	                                                                             | Output Sample |
-|:-------------------------------------------------------------------------------------------|:--------------|
-| 7 5558 <br> 5693 1 <br> 5558 0 <br> 6009 1 <br> 5558 1 <br> 1566 0 <br> 5558 0 <br> 8757 1 | 2             |
+**Input Sample**
+````
+7 5558 
+5693 1 
+5558 0 
+6009 1 
+5558 1 
+1566 0 
+5558 0 
+8757 1
+````
+
+**Output Sample**
+````
+2
+````
