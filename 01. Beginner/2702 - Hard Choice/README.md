@@ -14,8 +14,27 @@ The first line contains three integers **Ca**, **Ba** and **Pa** (0 ≤ **Ca**, 
 **Output**<br>
 Output a single line with an integer representing the number of passengers that will surely not receive their selection for a meal.
 
-| Input Samples	         | Output Samples |
-|:-----------------------|:---------------|
-| 80 20 40 <br> 45 23 48 | 11             |
-| 0 0 0 <br> 100 100 100 | 300            |
-| 41 42 43 <br> 41 42 43 | 0              |
+**Input Samples**
+````
+80 20 40 
+45 23 48
+````
+````
+0 0 0 
+100 100 100
+````
+````
+41 42 43 
+41 42 43
+````
+
+**Output Samples**
+````
+11
+````
+````          
+300
+````
+````          
+0
+````          
