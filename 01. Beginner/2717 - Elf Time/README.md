@@ -16,7 +16,20 @@ Following there will be two integers **A** and **B**, indicating how many minute
 **Output**<br>
 Print one row, containing the statement "Farei hoje!" if it's possible to manufacture both gifts before the time to go away, or "Deixa para amanha!" otherwise.
 
-| Input Samples	| Output Samples     |
-|:--------------|:-------------------|
-| 20 <br> 15 6  | Deixa para amanha! |
-| 20 <br> 10 10 | Farei hoje!        |
+**Input Samples**
+````
+20 
+15 6
+````
+````
+20 
+10 10
+````
+
+**Output Samples**
+````
+Deixa para amanha!
+````
+````
+Farei hoje!
+````
