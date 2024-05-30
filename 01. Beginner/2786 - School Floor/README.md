@@ -14,7 +14,21 @@ The first initial line contains an integer **L** (1 ≤ **L** ≤ 100) indicatin
 **Output**<br>
 Print two lines on the output. The first must contain an integer, representing the number of tiles of type 1 required. The second must contain an integer, indicating the number of tiles of type 2.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 3 <br> 5      | 23 <br> 12     |
-| 1 <br> 1      | 1  <br> 0      |
+**Input Samples**
+````
+3 
+5
+````
+````  
+1
+1
+````
+**Output Samples**
+````
+23 
+12
+````
+````
+1
+0
+````
