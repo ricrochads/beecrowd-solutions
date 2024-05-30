@@ -11,7 +11,24 @@ The entry consists of several test files. In each test file there is one line. T
 **Output**<br>
 For each file in the entry, you have an output file. The output file has four rows with an integer in each of them as it has been entered. As shown in the following output example.
 
-| Input Samples  | Output Samples                |
-|:---------------|:------------------------------|
-| 000.000.000-00 | 000 <br> 000 <br> 000 <br> 00 |
-| 320.025.102-01 | 320 <br> 025 <br> 102 <br> 01 |
+**Input Samples**
+````
+000.000.000-00
+````
+````
+320.025.102-01
+````
+
+**Output Samples**
+````
+000 
+000 
+000 
+00
+````
+````
+320 
+025 
+102 
+01
+````
