@@ -10,8 +10,27 @@ The first line of the input contains an integer **L** (1 ≤ **L** ≤ 1000) ind
 **Output**<br>
 Print a line on the output. The line should contain an integer, representing the color of the house in the lower right corner of the board: 1, if it is white; and 0, if it is black.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 6 <br> 9      | 0              |
-| 8 <br> 8      | 1              |
-| 5 <br> 91     | 1              |
+**Input Samples**
+````
+6 
+9
+````
+```` 
+8 
+8
+````
+```` 
+5 
+91
+````
+
+**Output Samples**
+````
+0
+````
+````          
+1   
+````
+````       
+1   
+````       
