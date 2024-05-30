@@ -8,6 +8,17 @@ The input is composed of several test cases. The first line contains an integer 
 **Output**<br>
 For each question, print the answer that was said by the three friends.
 
-| Input Sample	                                                         | Output Sample            |
-|:-----------------------------------------------------------------------|:-------------------------|
-| 3 <br> What is output? <br> What is your name? <br> Where is the book? | gzuz <br> gzuz <br> gzuz |
+**Input Sample**
+````
+3 
+What is output? 
+What is your name? 
+Where is the book?
+````
+
+**Output Sample**
+````
+gzuz 
+gzuz 
+gzuz
+````
