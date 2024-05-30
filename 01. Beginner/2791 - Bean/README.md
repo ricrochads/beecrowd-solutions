@@ -12,8 +12,24 @@ The entry will contain only one line with four integers, **C1**, **C2**, **C3** 
 **Output**<br>
 Write in the output a line containing an integer between 1 and 4, corresponding to the position where the beans were.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 0 0 0 1       | 4              |
-| 0 1 0 0       | 2              |
-| 0 0 1 0       | 3              |
+**Input Samples**
+````
+0 0 0 1
+````
+````
+0 1 0 0
+````
+````
+0 0 1 0
+````
+
+**Output Samples**
+````
+4
+````
+````
+2
+````
+````
+3
+````
