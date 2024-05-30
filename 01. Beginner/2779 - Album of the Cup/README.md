@@ -14,8 +14,40 @@ The first line contains an integer (1 ≤ **N** ≤ 100), on total stickers and 
 **Output**<br>
 Your program should produce a single line containing an integer representing the number of missing cards to complete the album.
 
-| Input Samples	                                     | Output Samples |
-|:---------------------------------------------------|:---------------|
-| 10 <br> 3 <br> 5 <br> 8 <br> 3                     | 7              |
-| 5 <br> 6 <br> 3 <br> 3 <br> 2 <br> 3 <br> 3 <br> 3 | 3              |
-| 3 <br> 4 <br> 2 <br> 1 <br> 3 <br> 3               | 0              |
+**Input Samples**
+````
+10 
+3 
+5 
+8 
+3                    
+````
+````
+5 
+6 
+3 
+3 
+2 
+3 
+3 
+3
+````
+````
+3 
+4 
+2 
+1 
+3 
+3              
+````
+
+**Output Samples**
+````
+7
+````
+````          
+3
+````
+````       
+0
+````       
