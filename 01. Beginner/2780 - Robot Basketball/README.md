@@ -2,7 +2,7 @@
 
 The OIBR organization, the International Robot Basketball Olympiad, is starting to have problems with two teams: the Bit Warriors and the Byte Bulls. It's just that the robots on these teams hit almost every pitch from any position on the court! Come to think of it, the basketball game would be awkward if players could hit any pitch, right? One of the measures that the OIBR is implementing is a new score for the launches, according to the distance from the robot to the beginning of the court. The court is 2000 centimeters long, as in figure.
 
-![2780_RobotBasketball.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.Beginner/2780%20-%20Robot%20Basketball/2780_RobotBasketball.webp)
+![2780_RobotBasketball.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/2780%20-%20Robot%20Basketball/2780_RobotBasketball.webp)
 
 Given the distance **D** of the robot to the beginning of the court, where the basket is, the rule is as follows:
 
