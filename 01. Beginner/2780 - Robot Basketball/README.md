@@ -18,9 +18,24 @@ The first and only line of the input contains an integer **D** (0 ≤ **D** ≤ 
 **Output**<br>
 Your program should produce a single line, containing an integer, 1, 2, or 3, indicating the launch season.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 1720          | 3              |
-| 250           | 1              |
-| 1400          | 2              |
+**Input Samples**
+````
+1720
+````
+````
+250 
+````
+````
+1400
+````
 
+**Output Samples**
+````
+3
+````
+````
+1
+````
+````
+2
+````
