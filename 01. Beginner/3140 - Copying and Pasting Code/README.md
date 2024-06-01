@@ -19,7 +19,7 @@ The body opening and closing tags, ``<body>`` and ``</body>`` respectively, are 
 You must print all the lines between the ``<body>`` and ``</body>`` tags without including them and keeping the exact original formatting of the file.
 
 **Input Sample**
-```html
+```
 <html>
     <head>
         <title>Meu primeiro programa em HTML</title>
@@ -31,6 +31,6 @@ You must print all the lines between the ``<body>`` and ``</body>`` tags without
 ```
 
 **Output Sample**
-```html
+```
          <h1>Hello World!</h1>	
 ````
