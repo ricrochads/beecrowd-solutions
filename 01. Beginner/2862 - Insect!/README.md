@@ -8,6 +8,17 @@ The input is composed of several test cases. The first line contains an integer 
 **Output**<br>
 For each value read, print the corresponding text.
 
-| Input Sample	                | Output Sample                           |
-|:------------------------------|:----------------------------------------|
-| 3 <br> 8001 <br> 100 <br> 200 | Mais de 8000! <br> Inseto! <br> Inseto! |
+**Input Sample**
+````
+3 
+8001 
+100 
+200
+````
+
+**Output Sample**
+````
+Mais de 8000! 
+Inseto! 
+Inseto!
+````
