@@ -12,6 +12,13 @@ The input contains two integers **A** and **B** (1 <= **A**, **B** <= 100000).
 **Output**<br>
 The output contains a single integer, which is the remainder of the division of **A** ÷ **B**.
 
-| Input Samples	| Output Samples |
-|:--------------|:---------------|
-| 8 <br> 3      | 2              |
+**Input Sample**
+````
+8
+3
+````     
+
+**Output Sample**
+````
+2
+````
