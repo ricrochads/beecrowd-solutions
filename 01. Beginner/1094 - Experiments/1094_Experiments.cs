@@ -7,7 +7,7 @@ class URI
     {
         int n = int.Parse(Console.ReadLine());
 
-        List<Tuple<int,char>> amountAndType = new List<Tuple<int, char>>();
+        List<Tuple<int, char>> amountAndType = new List<Tuple<int, char>>();
         
         int totalAnimal = 0;
         int totalRabbit = 0;
