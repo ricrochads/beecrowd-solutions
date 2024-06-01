@@ -16,7 +16,26 @@ The input consists of 5 integers each representing the portions that the guests 
 **Output**<br>
 The output consists of a single integer representing how much cassava Dona Chica should prepare in grams. Do not forget the line break after the awnser.
 
-| Input Samples                 | Output Samples |
-|:------------------------------|:---------------|
-| 1 <br> 1 <br> 1 <br> 1 <br> 1 | 3775           |
-| 2 <br> 2 <br> 2 <br> 2 <br> 2 | 7325           |
+**Input Samples**
+````
+1
+1
+1
+1
+1
+````
+````
+2
+2
+2
+2
+2
+````
+
+**Output Samples**
+````
+3775
+````          
+````
+7325
+````
