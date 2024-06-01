@@ -10,6 +10,27 @@ The first line of input contains an integer **N**(0 < **N** ≤ 10000), the numb
 **Output**<br>
 Your task is, for each tree, to print Sim, if it is a tree that Roberto can choose, or Nao, if it is a tree he should not choose.
 
-| Input Sample                                                                                                                      | Output Sample                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|
-| 8 <br> 200 60 160 <br> 150 50 200 <br> 300 85 341 <br> 110 10 50 <br> 450 90 1141 <br> 270 40 340 <br> 262 51 432 <br> 203 60 200 | Sim <br> Nao <br> Sim <br> Nao <br> Nao <br> Nao <br> Sim <br> Sim |
+**Input Sample**
+````
+8 
+200 60 160 
+150 50 200 
+300 85 341 
+110 10 50 
+450 90 1141 
+270 40 340 
+262 51 432 
+203 60 200
+````
+
+**Output Sample**
+````
+Sim 
+Nao
+Sim
+Nao
+Nao
+Nao
+Sim
+Sim
+````
