@@ -10,7 +10,18 @@ The entry is composed of 3 integers, **N**(0 < **N** < 10000), **X** and **Y**(0
 **Output**<br>
 A double value indicating the ICM of the communication of the Palatír de Sauron and Saruman, to 2 decimal places.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 100 2 2       | 25.00          |
-| 200 3 8       | 18.18          |
+**Input Samples**
+````
+100 2 2
+````
+````
+200 3 8
+````
+
+Output Samples
+````
+25.00
+````
+````
+18.18
+````
