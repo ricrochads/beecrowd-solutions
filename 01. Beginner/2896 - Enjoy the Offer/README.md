@@ -10,6 +10,17 @@ The first input line contains integer **T** (1 ≤ **T** ≤ 10000), which indic
 **Output**<br>
 For each test case print the number of bottles that the customer will have on the second day, if he makes the most of the offer.
 
-| Input Sample                    |	Output Sample     |
-|:--------------------------------|:------------------|
-| 3 <br> 7 4 <br> 4 7 <br> 4000 7 | 4 <br> 4 <br> 574 |
+**Input Sample**
+````
+3 
+7 4 
+4 7 
+4000 7
+````
+
+**Output Sample**
+````
+4 
+4 
+574
+````
