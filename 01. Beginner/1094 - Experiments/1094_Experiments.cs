@@ -17,7 +17,7 @@ class URI
         for (int i = 0; i < n; i++)
         {
             string[] input = Console.ReadLine().Split(' ');
-            amountAndType.Add(Tuple.Create(int.Parse(input[0]),char.ToUpper(input[1][0])));
+            amountAndType.Add(Tuple.Create(int.Parse(input[0]), char.ToUpper(input[1][0])));
 
             totalAnimal += amountAndType[i].Item1;
 
