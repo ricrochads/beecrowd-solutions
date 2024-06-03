@@ -10,6 +10,17 @@ The input file contains many integer numbers. The last one is zero.
 **Output**<br>
 For each number N of the input file, one output line must be printed, from 1 to N like the following example. Be careful with blank spaces after the last line number.
 
-| Input Sample            | Output Sample                                  |
-|:------------------------|:-----------------------------------------------|
-| 5 <br> 10 <br> 3 <br> 0 | 1 2 3 4 5 <br> 1 2 3 4 5 6 7 8 9 10 <br> 1 2 3 |
+**Input Sample**
+````
+5 
+10 
+3 
+0
+````
+
+**Output Sample**
+````
+1 2 3 4 5 
+1 2 3 4 5 6 7 8 9 10 
+1 2 3
+````
