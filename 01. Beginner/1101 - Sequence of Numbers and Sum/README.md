@@ -8,6 +8,15 @@ The input file contains pairs of integer values ***M*** and ***N***. The last li
 **Output**<br>
 For each pair of numbers, print the sequence from the smallest to the biggest and the sum of these values, as shown below.
 
-| Input Sample          | Output Sample                      |
-|:----------------------|:-----------------------------------|
-| 5 2 <br> 6 3 <br> 5 0 | 2 3 4 5 Sum=14 <br> 3 4 5 6 Sum=18 |
+**Input Sample**
+````
+5 2 
+6 3 
+5 0 
+````
+
+**Output Sample**
+````
+2 3 4 5 Sum=14 
+3 4 5 6 Sum=18
+````
