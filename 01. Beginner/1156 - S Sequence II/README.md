@@ -8,5 +8,5 @@ S = 1 + 3/2 + 5/4 + 7/8 + ... + 39/?
 There is no input in this problem.
 
 **Output**<br>
-The output contains a value corresponding to the value of S.
+The output contains a value corresponding to the value of S.<br>
 The value should be printed with two digits after the decimal point.
