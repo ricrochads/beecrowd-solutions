@@ -8,6 +8,12 @@ The input file contains an integer number N (0 < N < 46).
 **Output**<br>
 The numbers ​​should be printed on the same line, separated by a blank space. There is no space after the last number.
 
-| Input Sample | Output Sample |
-|:-------------|:--------------|
-| 5            | 0 1 1 2 3     |
+**Input Sample**
+````
+5
+````
+
+**Output Sample**
+````
+0 1 1 2 3
+````
