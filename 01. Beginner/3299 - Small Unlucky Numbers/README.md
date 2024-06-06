@@ -5,7 +5,7 @@ An unlucky number is one that contains a 1 followed by a 3 among its digits. For
 Given an integer N, your program will have to determine if N is unlucky or not.
 
 **Input**<br>
-The input consists of a positive integer **N** (0 <= **N** <= 10¹⁷)
+The input consists of a positive integer **N** (0 <= **N** <= 10<sup>17</sup>)
 
 **Output**<br>
 Print the message "N es de Mala Suerte" if **N** is an unlucky number, otherwise print "N NO es de Mala Suerte".
