@@ -10,7 +10,18 @@ The input consists of two values **F1** and **F2** (-100.00 â‰¤ **F1**, **F2** â
 **Output**<br>
 Print a value, with exactly six digits after the decimal point, that corresponds to the GDP fluctuation in the whole analysed period of two years.
 
-| Input Samples	| Output Samples |
-|:--------------|:---------------|
-| -4.00 5.00    | 0.800000       |
-| 66.66 88.88   | 214.787408     |
+**Input Samples**
+````
+-4.00 5.00
+````
+````
+66.66 88.88
+````
+
+**Output Samples**
+````
+0.800000
+````
+````      
+214.787408
+````
