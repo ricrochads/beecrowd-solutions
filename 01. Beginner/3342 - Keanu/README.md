@@ -4,12 +4,12 @@ Keanu was testing new chessboard models when he had the following doubt:
 
 How many white squares and many black squares does an nxn-sized chessboard have?
 
-3x3-sized chessboard:
-<img src="https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/3342%20-%20Keanu/3342_Keanu_A.png" alt="3342_Keanu_A.png" width="50%">
+3x3-sized chessboard:<br>
+<img src="https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/3342%20-%20Keanu/3342_Keanu_A.png" alt="3342_Keanu_A.png" width="15%"><br>
 5 white squares and 4 black squares
 
-4x4-sized chessboard:
-<img src="https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/3342%20-%20Keanu/3342_Keanu_B.png" alt="3342_Keanu_B.png" width="50%">
+4x4-sized chessboard:<br>
+<img src="https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/3342%20-%20Keanu/3342_Keanu_B.png" alt="3342_Keanu_B.png" width="15%"><br>
 8 white squares and 8 black squares
 
 Note that the topmost and leftmost square is always white.
