@@ -8,8 +8,24 @@ Input consists of several test cases. Each case contains three integer values **
 **Output**<br>
 For each test case print the name of the middle nephew in lowercase.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 5 6 7         | zezinho        |
-| 7 5 6         | luisinho       |
-| 6 7 5         | huguinho       |
+**Input Samples**
+````
+5 6 7
+````
+````
+7 5 6
+````
+````
+6 7 5
+````
+
+**Output Samples**
+````
+zezinho
+````
+```` 
+luisinho
+````
+````
+huguinho
+````
