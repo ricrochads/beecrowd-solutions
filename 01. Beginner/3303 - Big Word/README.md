@@ -12,7 +12,18 @@ Input consists of several test cases. Each case contains a string that describes
 **Output**<br>
 For each test case, print whether the word Juquinha consulted is a "palavrao" (big word) or a "palavrinha" (other words).
 
-| Input Samples	 | Output Samples |
-|:---------------|:---------------|
-| paralelepipedo | palavrao       |
-| carro          | palavrinha     |
+**Input Samples**
+````
+paralelepipedo
+````
+````
+carro
+````
+
+**Output Samples**
+````
+palavrao
+````
+````
+palavrinha
+````
