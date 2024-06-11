@@ -38,7 +38,7 @@ If multiple streets cause you to get trapped – or are unreachable – you shou
 0 1 1
 ````
 
-**Output Samples **
+**Output Samples**
 ````
 TRAPPED 3 
 UNREACHABLE 4 
