@@ -22,7 +22,28 @@ If no problems are found, i.e., you are not trapped in any street and every stre
 
 If multiple streets cause you to get trapped – or are unreachable – you should list them in the same order they were entered in the input (within respective category).
 
-| Input Samples	                                                          | Output Samples                                  |
-|:------------------------------------------------------------------------|:------------------------------------------------|
-| 6 <br> 0 1 1 <br> 1 1 2 <br> 2 3 1 3 0 <br> 3 0 <br> 4 2 5 0 <br> 5 1 4 | TRAPPED 3 <br> UNREACHABLE 4 <br> UNREACHABLE 5 |
-| 2 <br> 1 1 0 <br> 0 1 1                                                 | NO PROBLEMS                                     |
+**Input Samples**
+````
+6 
+0 1 1 
+1 1 2 
+2 3 1 3 0 
+3 0 
+4 2 5 0 
+5 1 4
+````
+````
+2 
+1 1 0 
+0 1 1
+````
+
+**Output Samples **
+````
+TRAPPED 3 
+UNREACHABLE 4 
+UNREACHABLE 5
+````
+````
+NO PROBLEMS
+````
