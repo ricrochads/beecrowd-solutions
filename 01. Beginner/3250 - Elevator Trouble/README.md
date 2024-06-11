@@ -10,7 +10,18 @@ The input will consist of one line, namely **f s g u d**, where 1 ≤ **s**, **g
 **Output**<br>
 You must reply with the minimum numbers of pushes you must make in order to get from s to g, or output "use the stairs" if it is impossible given the configuration of the elevator.
 
-| Input Samples	|Output Samples  |
-|:--------------|:---------------|
-| 10 1 10 2 1   | 6              |
-| 100 2 1 1 0   | use the stairs |
+**Input Samples**
+````
+10 1 10 2 1
+````
+````
+100 2 1 1 0 
+````
+
+**Output Samples**
+````
+6
+````
+````
+use the stairs
+````
