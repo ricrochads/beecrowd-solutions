@@ -18,7 +18,28 @@ You may assume that the strength of each moose is unique.
 **Output**<br>
 The year Karl-Älgtav wins the tournament, or "unknown" if the given data is insufficient for determining this,
 
-| Input Samples	                                                  | Output Samples |
-|:----------------------------------------------------------------|:---------------|
-| 2 4 <br> 2013 2 <br> 2011 1 <br> 2011 3 <br> 2014 4 <br> 2012 6 | 2013           |
-| 2 4 <br> 2011 1 <br> 2013 2 <br> 2012 4 <br> 2011 5 <br> 2014 3 | unknown        |
+**Input Samples**
+````
+2 4 
+2013 2 
+2011 1 
+2011 3 
+2014 4 
+2012 6 
+````
+````
+2 4 
+2011 1 
+2013 2 
+2012 4 
+2011 5 
+2014 3
+````
+
+**Output Samples**
+````
+2013
+````
+````
+unknown
+````
