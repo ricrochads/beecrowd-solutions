@@ -10,6 +10,15 @@ The first line contains an integer giving the number of test cases to follow. Ea
 **Output**<br>
 For each test case, output one line containing the number of walks. Under the assumption 1 ≤ **N** ≤ 14, the answer will be less than 2³¹
 
-| Input Sample    | Output Sample |
-|:----------------|:--------------|
-| 2 <br> 2 <br> 4 | 6 <br> 90     |
+**Input Sample**
+````
+2 
+2 
+4
+````
+
+**Output Sample**
+````
+6 
+90
+````
