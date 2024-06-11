@@ -16,7 +16,22 @@ Note: If the starting number is 1, all players receive 0 point for that round
 **Output**<br>
 Output a single line with the score at the end of the day for each of the three contestants, in the order ”Odd”, ”Even”, ”Ingmariay”.
 
-| Input Samples	                  | Output Samples |
-|:--------------------------------|:---------------|
-| 1 <br> O 4                      | 2 1 4          |
-| 3 <br> O 13 <br> I 14 <br> E 15 | 6 29 16        |
+**Input Samples**
+````
+1
+O 4 
+````
+````
+3
+O 13
+I 14
+E 15
+````
+
+**Output Samples**
+````
+2 1 4
+````
+````
+6 29 16
+````
