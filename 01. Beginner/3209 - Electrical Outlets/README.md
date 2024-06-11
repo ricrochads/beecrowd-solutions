@@ -12,6 +12,17 @@ Input vill start with a single integer 1 ≤ **N** ≤ 20, indicating the number
 **Output**<br>
 Output one line per test case, with the maximum number of appliances that can be powered.
 
-| Input Sample	                                                | Output Sample     |
-|:--------------------------------------------------------------|:------------------|
-| 3 <br> 3 2 3 4 <br> 10 4 4 4 4 4 4 4 4 4 4 <br> 4 10 10 10 10 | 7 <br> 31 <br> 37 |
+**Input Sample**
+````
+3 
+3 2 3 4 
+10 4 4 4 4 4 4 4 4 4 4 
+4 10 10 10 10
+````
+
+**Output Sample**
+````
+7 
+31 
+37
+````
