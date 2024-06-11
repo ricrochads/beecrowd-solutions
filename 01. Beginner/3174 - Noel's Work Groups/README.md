@@ -17,6 +17,19 @@ The first input value is an integer **N** (1 ≤ **N** ≤ 1000), indicating the
 **Output**<br>
 The output should be an integer **P**, the total amount of gifts produced per day by Santa’s factory.
 
-| Input Sample	                                                                                                                                                           | Output Sample |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-| 7 <br> Aradhel bonecos 10 <br> Aerin arquitetos 15 <br> Anna musicos 10 <br> Elbereth musicos 10 <br> Freda desenhistas 15 <br> Arwen bonecos 10 <br> Logolas bonecos 10 | 10            |
+**Input Sample**
+````
+7 
+Aradhel bonecos 10 
+Aerin arquitetos 15 
+Anna musicos 10 
+Elbereth musicos 10 
+Freda desenhistas 15 
+Arwen bonecos 10 
+Logolas bonecos 10
+````
+
+**Output Sample**
+````
+10
+````
