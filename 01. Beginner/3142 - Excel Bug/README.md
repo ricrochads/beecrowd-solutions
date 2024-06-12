@@ -20,6 +20,20 @@ The entry ends with EOF.
 **Output**<br>
 For each test case, print an integer containing the numeric index value for that column. If the column code entered is not within the limits of Excel, print *“Essa coluna nao existe Tobias!”* (without quotes).
 
-| Input Sample                     | Output Sample                                                |
-|:---------------------------------|:-------------------------------------------------------------|
-| A <br> D <br> Z <br> ZZZ <br> AB | 1 <br> 4 <br> 26 <br> Essa coluna nao existe Tobias! <br> 28 |
+**Input Sample**
+````
+A 
+D 
+Z 
+ZZZ 
+AB
+````
+
+**Output Sample**
+````
+1 
+4 
+26 
+Essa coluna nao existe Tobias! 
+28
+````
