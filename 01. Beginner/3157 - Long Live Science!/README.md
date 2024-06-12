@@ -14,8 +14,24 @@ Limits: 0 <| **S** | <= 280.
 **Output**<br>
 The truth.
 
-| Input Samples	                                                             | Output Samples                    |
-|:---------------------------------------------------------------------------|:----------------------------------|
-| Li no face que tal remédio cura o Corona a ciencia coronguista diz que nao | Nao se refuta ciencia com opiniao |
-| Corona eh criacao narniana para vender vacina                              | Nao se refuta ciencia com opiniao |
-| Idai que corona mata importante eh a economia                              | Nao se refuta ciencia com opiniao |
+**Input Samples**
+````
+Li no face que tal remédio cura o Corona a ciencia coronguista diz que nao
+````
+````
+Corona eh criacao narniana para vender vacina                             
+````
+````
+Idai que corona mata importante eh a economia                             
+````
+
+**Output Samples**
+````
+Nao se refuta ciencia com opiniao
+````
+````
+Nao se refuta ciencia com opiniao
+````
+````
+Nao se refuta ciencia com opiniao
+````
