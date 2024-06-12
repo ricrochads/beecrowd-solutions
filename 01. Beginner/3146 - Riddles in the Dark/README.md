@@ -16,7 +16,18 @@ Limits: 0 < **R** <= 10;
 **Output**<br>
 A real value with two decimal places indicating the total size of the circle of Gollum's question circle.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 1.00          | 6.28           |
-| 3.11          | 19.53          |
+**Input Samples**
+````
+1.00
+````
+````
+3.11
+````
+
+**Output Samples**
+````
+6.28
+````
+````
+19.53
+````
