@@ -19,7 +19,23 @@ In addition, each **M** line of the name list and each **N** line with the fruit
 **Output**<br>
 For each fruit searched, show the output: *"Sheldon come a fruta X"* or *"Sheldon detesta a fruta X"* (where **X** is the name of the fruit that was verified in the list, in lowercase).
 
-| Input Sample	                                                                       | Output Sample                                                                                                                                                                                                     |
-|:-------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6 15 <br> Jenipapo <br> Amora <br> Mangaba <br> Acerola <br> Granadilla <br> Abacate | Sheldon come a fruta jenipapo <br> Sheldon come a fruta amora <br> Sheldon come a fruta mangaba <br> Sheldon detesta a fruta acerola <br> Sheldon detesta a fruta granadilla <br> Sheldon detesta a fruta abacate |
+**Input Sample**
+````
+6 15 
+Jenipapo 
+Amora 
+Mangaba 
+Acerola 
+Granadilla 
+Abacate
+````
 
+**Output Sample**
+````
+Sheldon come a fruta jenipapo 
+Sheldon come a fruta amora 
+Sheldon come a fruta mangaba 
+Sheldon detesta a fruta acerola 
+Sheldon detesta a fruta granadilla 
+Sheldon detesta a fruta abacate
+````
