@@ -14,7 +14,18 @@ Limits: 1 < **N** <= 100; 1 < **X** <= 1000.
 **Output**<br>
 A real number with two decimal places indicating the number of days to reach the Lonely Mountain.
 
-| Input Samples | Output Samples |
-|:--------------|:---------------|
-| 2 4           | 1.00           |
-| 13 1000       | 66.67          |
+**Input Samples**
+````
+2 4
+````
+````         
+13 1000      
+````
+
+**Output Samples**
+````
+1.00
+````
+```` 
+66.67
+````
