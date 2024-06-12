@@ -18,7 +18,18 @@ It contains 6 integers, **H**, **E**, **A**, **O**, **W** and **X**, representin
 **Output**<br>
 If the good side wins: “Middle-earth is safe.”, If not, “Sauron has returned.”.
 
-| Input Samples | Output Samples        |
-|:--------------|:----------------------|
-| 1 2 3 10 2 7  | Middle-earth is safe. |
-| 1 2 3 10 2 5  | Sauron has returned.  |
+**Input Samples**
+````
+1 2 3 10 2 7
+````
+```` 
+1 2 3 10 2 5 
+````
+
+**Output Samples**
+````
+Middle-earth is safe.
+````
+````
+Sauron has returned. 
+````
