@@ -10,7 +10,7 @@ The input has many test cases. Each one is made by three integer numbers **A**, 
 **Output**<br>
 Should be printed an integer number, that is the size of the land. This value should be truncated.
 
-**Sample Input**
+**Input Sample**
 ```	
 8 10 20
 1 10 100
@@ -18,7 +18,7 @@ Should be printed an integer number, that is the size of the land. This value sh
 0
 ```
 
-**Sample Output**
+**Output Sample**
 ```
 20
 3
