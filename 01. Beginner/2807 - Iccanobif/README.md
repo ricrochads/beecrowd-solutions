@@ -12,7 +12,7 @@ The entry consists of a single integer **N** (1 ≤ **N** ≤ 40) representing t
 **Output**<br>
 The output consists of a single line containing the terms of the Iccanobif sequence of N size separated by a single space.
 
-**Samples Input**
+**Input Samples**
 ```
 3
 ```
@@ -23,7 +23,7 @@ The output consists of a single line containing the terms of the Iccanobif seque
 10
 ```
 
-**Samples Output**
+**Output Samples**
 ```
 2 1 1
 ```
