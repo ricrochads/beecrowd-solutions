@@ -10,7 +10,7 @@ The input contains several test cases and ends with EOF. Each test case consists
 **Output**<br>
 For each test, the output consists of one line saying "vai ter copa!" if there is no complaints for president. If there are complaints, the output should say "vai ter duas!".
 
-**Sample Input**
+**Input Sample**
 ```
 0
 1
@@ -20,7 +20,7 @@ For each test, the output consists of one line saying "vai ter copa!" if there i
 0
 ```
 
-**Sample Output**
+**Output Sample**
 ```
 vai ter copa!
 vai ter duas!
