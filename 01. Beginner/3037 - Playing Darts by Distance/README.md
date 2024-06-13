@@ -26,7 +26,8 @@ The output consists of the winner of each test case.
 2 1
 3 0
 ```
-Output Sample
+
+**Output Sample**
 ```
 MARIA
 JOAO
