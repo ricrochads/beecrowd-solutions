@@ -8,7 +8,7 @@ The input consists of several integers numbers, one per line, corresponding to o
 **Output**<br>
 For each integer number of input, print the corresponding array according to the example. The values ​​of the arrays must be formatted in a field of size 3 right justified and separated by a space. None space must be printed after the last character of each row of the array. A blank line must be printed after each array.
 
-**Sample Input**<br>
+**Input Sample**
 ```	
 1
 2
@@ -18,7 +18,7 @@ For each integer number of input, print the corresponding array according to the
 0
 ```
 
-**Sample Output**
+**Output Sample**
 ```
   1
  
