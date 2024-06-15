@@ -10,6 +10,18 @@ The first line of the input contains a single uppercase character **O** ('S' or 
 **Output**<br>
 Print the calculated result (sum or average), with one digit after the decimal point.
 
-| Input Sample	                                           | Output Sample |
-|:---------------------------------------------------------|:--------------|
-| S <br> 5.0 <br> 0.0 <br> -3.5 <br> 2.5 <br> 4.1 <br> ... | 12.6          |
+**Input Sample**
+````
+S 
+5.0 
+0.0 
+-3.5 
+2.5 
+4.1 
+...
+````
+
+**Output Sample**
+````
+12.6
+````
