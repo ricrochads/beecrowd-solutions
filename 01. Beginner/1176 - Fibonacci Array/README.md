@@ -8,6 +8,17 @@ The first line of the input contains a single integer **T**, indicating the numb
 **Output**<br>
 For each test case in the input, print the message "Fib(N) = X", where **X** is the N-th term of the Fibonacci series.
 
-| Input Sample	         | Output Sample                              |
-|:-----------------------|:-------------------------------------------|
-| 3 <br> 0 <br> 4 <br> 2 | Fib(0) = 0 <br> Fib(4) = 3 <br> Fib(2) = 1 |
+**Input Sample**
+````
+3
+0
+4
+2
+````
+
+**Output Sample**
+````
+Fib(0) = 0
+Fib(4) = 3
+Fib(2) = 1
+````
