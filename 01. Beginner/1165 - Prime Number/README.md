@@ -8,6 +8,17 @@ The input contains several test cases. The first contains the number of test cas
 **Output**<br>
 For each test case print the message “**X** eh primo” (**X** is prime) or “**X** nao eh primo” (**X** isn't prime) according with to above specification.
 
-| Input Sample	          | Output Sample                                       |
-|:------------------------|:----------------------------------------------------|
-| 3 <br> 8 <br> 51 <br> 7 | 8 nao eh primo <br> 51 nao eh primo <br> 7 eh primo |
+**Input Sample**
+````
+3
+8
+51
+7
+````
+
+**Output Sample**
+````
+8 nao eh primo
+51 nao eh primo
+7 eh primo
+````
