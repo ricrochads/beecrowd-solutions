@@ -10,6 +10,18 @@ The first line of the input contains a simple integer **C** (0 ≤ **C** ≤ 11)
 **Output**<br>
 Print the calculated result (sum or average), with one digit after the decimal point.
 
-| Input Sample	                                         | Output Sample |
-|:-------------------------------------------------------|:--------------|
-| 5 <br> S <br> 1.0 <br> -3.5 <br> 2.5 <br> 4.1 <br> ... | 12.6          |
+**Input Sample**
+````
+5 
+S 
+1.0 
+-3.5 
+2.5 
+4.1 
+...
+````
+
+**Output Sample**
+````
+12.6
+````
