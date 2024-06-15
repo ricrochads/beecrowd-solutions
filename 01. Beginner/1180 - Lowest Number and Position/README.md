@@ -8,7 +8,14 @@ The first line of input contains one integer **N** (1 < **N** <1000), indicating
 **Output**<br>
 The first line displays the message “Menor valor:” followed by a space and the lowest number read in the input. The second line displays the message “Posicao:” followed by a space and the array position in which the lowest number is, remembering that the array starts at the zero position.
 
-| Input Sample	        | Output Sample     |
-|:----------------------|:------------------|
-| 10                    | Menor valor: -5   |
-| 1 2 3 4 -5 6 7 8 9 10 | Posicao: 4        |
+**Input Sample**
+````
+10                   
+1 2 3 4 -5 6 7 8 9 10
+````
+
+**Output Sample** 
+````
+Menor valor: -5
+Posicao: 4 
+````
