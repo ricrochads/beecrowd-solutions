@@ -8,6 +8,17 @@ The input contains several test cases. The first contains the number of test cas
 **Output**<br>
 For each test case print the message “**X** eh perfeito” (**X** is perfect) or “**X** nao eh perfeito” (**X** isn't perfect) according with to above specification.
 
-| Input Sample	          | Output Sample                                            |
-|:------------------------|:---------------------------------------------------------|
-| 3 <br> 6 <br> 5 <br> 28 | 6 eh perfeito <br> 5 nao eh perfeito <br> 28 eh perfeito |
+**Input Sample**
+````
+3
+6
+5
+28
+````
+
+**Output Sample**
+````
+6 eh perfeito
+5 nao eh perfeito
+28 eh perfeito
+````
