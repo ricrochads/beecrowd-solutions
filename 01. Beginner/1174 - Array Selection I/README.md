@@ -8,6 +8,19 @@ The input contains 100 numbers. Each number can be integer, floating-point numbe
 **Output**<br>
 For each number of the array that is equal to 10 or less, print "A [**i**] = **x**", where **i** is the position of the array and **x** is the number stored in the position, with one digit after the decimal point.
 
-| Input Sample	                       | Output Sample                                         |
-|:-------------------------------------|:------------------------------------------------------|
-| 0 <br> -5 <br> 63 <br> -8.5 <br> ... | A[0] = 0.0 <br> A[1] = -5.0 <br> A[3] = -8.5 <br> ... |
+**Input Sample**
+````
+0 
+-5 
+63 
+-8.5 
+...
+````
+
+**Output Sample**
+````
+A[0] = 0.0
+A[1] = -5.0
+A[3] = -8.5
+...
+````
