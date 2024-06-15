@@ -8,6 +8,20 @@ The input contains 20 integer numbers, positive or negative.
 **Output**<br>
 For each position of the array **N** print "N[i] = Y", where **i** is the array position and **Y** is the number stored in that position.
 
-| Input Sample	                      | Output Sample                                                     |
-|:------------------------------------|:------------------------------------------------------------------|
-| 0 <br> -5 <br> ... <br> 63 <br> 230 | N[0] = 230 <br> N[1] = 63 <br> ... <br> N[18] = -5 <br> N[19] = 0 |
+**Input Sample**                   
+````
+0
+-5 
+... 
+63 
+230
+````
+
+**Output Sample**
+````
+N[0] = 230
+N[1] = 63
+...
+N[18] = -5
+N[19] = 0
+````
