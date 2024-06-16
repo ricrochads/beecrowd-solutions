@@ -8,6 +8,15 @@ The input file contains many integer numbers. The last one is zero.
 **Output**<br>
 Print the output according to the example below.
 
-| Input Sample     | Output Sample |
-|:-----------------|:--------------|
-| 4 <br> 11 <br> 0 | 40 <br> 80    |
+**Input Sample**
+````
+4
+11
+0
+````
+
+**Output Sample**
+````
+40
+80
+````
