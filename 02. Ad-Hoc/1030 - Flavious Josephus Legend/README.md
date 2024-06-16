@@ -7,7 +7,7 @@ There are **NC** (1 ≤ **NC** ≤ 30 ) test cases. In each input test case ther
 
 Follow an example with 5 men and step 2: In this example the remaining element is 3.
 
-![1030_FlaviousJosephusLegend.jpg]()
+![1030_FlaviousJosephusLegend.jpg](https://github.com/ricrochads/beecrowd-solutions/blob/main/02.%20Ad-Hoc/1030%20-%20Flavious%20Josephus%20Legend/1030_FlaviousJosephusLegend.jpg)
 
 The data must be read from standard input.
 
