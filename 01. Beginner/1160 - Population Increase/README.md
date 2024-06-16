@@ -12,6 +12,23 @@ The first line of the input contains a single integer **T**, indicating the numb
 **Output**<br>
 Print, for each test case, how many years would be necessary to the city A became greater than the city B (in inhabitants). Remember that if this time is greater than 100 it will be necessary printing the message: "Mais de 1 seculo". In each one of these cases, maybe would be interesting interrupt the counting, otherwise you'll get "Time Limit Exceeded".
 
-| Input Sample	                                                                                                                                     | Output Sample                                                                            |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
-| 6 <br> 100 150 1.0 0 <br> 90000 120000 5.5 3.5 <br> 56700 72000 5.2 3.0 <br> 123 2000 3.0 2.0 <br> 100000 110000 1.5 0.5 <br> 62422 484317 3.1 1.0 | 51 anos. <br> 16 anos. <br> 12 anos. <br> Mais de 1 seculo. <br> 10 anos. <br> 100 anos. |
+**Input Sample**
+````
+6
+100 150 1.0 0
+90000 120000 5.5 3.5
+56700 72000 5.2 3.0
+123 2000 3.0 2.0
+100000 110000 1.5 0.5
+62422 484317 3.1 1.0
+````
+
+**Output Sample**
+````
+51 anos.
+16 anos.
+12 anos.
+Mais de 1 seculo.
+10 anos.
+100 anos.
+````
