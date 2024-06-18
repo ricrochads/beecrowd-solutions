@@ -7,7 +7,7 @@ First, each uppercase or lowercase letter must be shifted three positions to the
 For example, if the resulting word of the first part is "tesla", the letters "sla" should be moved one position to the left. However, if the resulting word of the first part is "t#$A", the letters "$A" are to be displaced.
 
 **Input**<br>
-The input contains a number of cases of test. The first line of each case of test contains an integer N (1 ≤ N ≤ 1 * 10⁴), indicating the number of lines the problem should encrypt. The following N lines contain M characters each M (1 ≤ M ≤ 1 * 10³).
+The input contains a number of cases of test. The first line of each case of test contains an integer **N** (1 ≤ **N** ≤ 1 * 10⁴), indicating the number of lines the problem should encrypt. The following **N** lines contain **M** characters each **M** (1 ≤ **M** ≤ 1 * 10³).
 
 **Output**<br>
 For each input, you must present the encrypted message.
