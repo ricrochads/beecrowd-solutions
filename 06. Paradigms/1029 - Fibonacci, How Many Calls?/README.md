@@ -8,7 +8,7 @@ Sometimes when you are a Computer Science student, you’ll see an exercise or a
 
 One way of finding Fibonacci numbers is by recursive calls. This is illustrated below, presenting the tree of derivation when we calculate fib(4), i.e. the fifth value of this sequence:
 
-![1029_FibonacciHowManyCalls.webp]()
+![1029_FibonacciHowManyCalls.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/06.%20Paradigms/1029%20-%20Fibonacci%2C%20How%20Many%20Calls%3F/1029_FibonacciHowManyCalls.webp)
 
 In this way,
 - fib(4) = 1+0+1+1+0 = 3
