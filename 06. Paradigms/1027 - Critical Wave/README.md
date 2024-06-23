@@ -5,7 +5,7 @@ The task is simple. Through some critical points in 2D, you have to draw a wave 
 There will be an imaginary line y = a, which we call the major axis for the curve.
 All the points on the curve should have different x coordinates. Their y coordinates should be of form a-1 or a+1.
 
-![1027_CriticalWave.webp]()
+![1027_CriticalWave.webp](https://github.com/ricrochads/beecrowd-solutions/blob/main/06.%20Paradigms/1027%20-%20Critical%20Wave/1027_CriticalWave.webp)
 
 Two consecutive points on the curve should have a difference of 2 in their y coordinate.
 
