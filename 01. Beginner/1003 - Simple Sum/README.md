@@ -8,7 +8,7 @@ The input file contains 2 integer numbers.
 **Output**<br>
 Print the message "SOMA" with all the capital letters, with a blank space before and after the equal signal followed by the corresponding value to the sum of A and B. Like all the problems, don't forget to print the end of line, otherwise you will receive "Presentation Error"
 
-| **Input Samples**   |
+**Input Samples**
 ```
 30
 10
