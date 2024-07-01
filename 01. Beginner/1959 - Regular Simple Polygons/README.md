@@ -2,7 +2,7 @@
 
 In Euclidean geometry, a regular polygon is a polygon that is equiangular (all angles are equal in measure) and equilateral (all sides have the same length). A simple polygon is one that does not intersect itself anywhere. Below we can see various mosaics made of regular polygons.
 
-![1959_RegularSimplePolygons.jpg]()
+![1959_RegularSimplePolygons.jpg](https://github.com/ricrochads/beecrowd-solutions/blob/main/01.%20Beginner/1959%20-%20Regular%20Simple%20Polygons/1959_RegularSimplePolygons.jpg)
 
 You must write a program that, given the number and the length of sides of a regular polygon, show its perimeter.
 
